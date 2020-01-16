@@ -7,6 +7,6 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*IISE Annual Conference & Expo 2018*"
-url_pdf: https://github.com/ramongss/My_Website/tree/master/static/papers/dias-2018.pdf
+url_pdf: https://www.researchgate.net/publication/332439725_A_decomposition_scheme_in_production_planning_based_on_linear_programming_which_couples_the_concept_of_clearing_function_and_the_dynamic_economic_environment
 ---
 

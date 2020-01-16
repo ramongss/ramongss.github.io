@@ -9,5 +9,6 @@ featured: true
 publication: "*14th Brazilian Computational Intelligence Meeting*"
 tags: ["Wind energy", "forecasting", "time series", "machine learning", "stacking ensemble"]
 url_pdf: "https://www.researchgate.net/publication/336991055_Very_short-term_wind_energy_forecasting_based_on_stacking_ensemble"
+url_slides: '/slides/CBIC2019-Wind.pdf'
 ---
 

@@ -9,5 +9,6 @@ featured: true
 publication: "*14th Brazilian Computational Intelligence Meeting*"
 tags: ["Decomposition", "ensemble", "time series", "meningitis", "multi-objective optimization"]
 url_pdf: "https://www.researchgate.net/publication/336992593_Forecasting_epidemiological_time_series_based_on_decomposition_and_optimization_approaches"
+url_slides: '/slides/CBIC2019-Meningitis.pdf'
 ---
 

@@ -7,6 +7,6 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*IISE Annual Conference & Expo 2019*"
-url_pdf: https://github.com/ramongss/My_Website/tree/master/static/papers/silva-2019.pdf
+url_pdf: https://www.researchgate.net/publication/332439571_The_Problem_of_Coupling_Lot_Streaming_and_Clearing_Function_Rules
 ---
 

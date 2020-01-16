@@ -8,6 +8,6 @@ abstract: "THE PAPER PRESENTS A CLEAR AND OBJECTIVE CALCULOUS OF DEMAND FORECAST
 featured: false
 publication: "*XXII Simpósio de Engenharia de Produção*"
 tags: ["DEMAND", "FORECAST", "MODELS", "PCP"]
-url_pdf: https://github.com/ramongss/My_Website/tree/master/static/papers/silva-2015.pdf
+url_pdf: https://www.researchgate.net/publication/332438305_APLICACAO_DE_UM_MODELO_DE_PREVISAO_DE_DEMANDA_EM_UMA_EMPRESA_DO_RAMO_DE_LOCACAO_DE_MESAS_DE_BILHAR
 ---
 
