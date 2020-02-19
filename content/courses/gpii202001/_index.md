@@ -60,9 +60,9 @@ Os alunos ao final do curso irão:
 	* $4 \leq \text{MAP} < 7$: Avaliação Final (Média Aritmética Final - $\text{MAF}$)
 	* $ \text{MAF} \geq 5 $: **APROVAÇÃO**
 
-{{% alert warning %}}
+<!-- {{% alert warning %}}
 Não há 2ª chamada
-{{% /alert %}}
+{{% /alert %}} -->
 
 ### Avaliação
 
