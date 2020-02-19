@@ -27,7 +27,7 @@ Professor: **Ramon Gomes da Silva**. A disciplina é ministrada para as turmas d
 
 ### Competências
 
-Os alunos ao final do curso irão:
+Os alunos ao final do curso irão possuir as habilidades de:
 
 * **Planejamento** -- Ter capacidade para identificar situações na produção e planejar de maneira inteligente e eficiente um sistema produtivo, bem como planejar uma localização estratégica para o desenvolvimento e crescimento da empresa.
 
