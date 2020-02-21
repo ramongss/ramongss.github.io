@@ -90,5 +90,6 @@ A avaliação da disciplina se dará da seguinte maneira:
 
 ### Execução da disciplina
 
-1. {{% staticref "pdfs/gos202001/Aula-00.pdf" "newtab" %}} Aula 00: Introdução à disciplina e regras do jogo {{% /staticref %}}
-1. {{% staticref "pdfs/gos202001/Aula-01.pdf" "newtab" %}} Aula 01: O papel dos serviços na economia {{% /staticref %}}
+1. {{% staticref "pdfs/gos202001/Aula-00.pdf" "newtab" %}} Aula 00: Introdução à disciplina e regras do jogo. {{% /staticref %}}
+1. {{% staticref "pdfs/gos202001/Aula-01.pdf" "newtab" %}} Aula 01: O papel dos serviços na economia. {{% /staticref %}}
+	- {{% staticref "pdfs/gos202001/Ex01.pdf" "newtab" %}} Exercício 01 - Classificar a partir dos 5 estágios da atividade econômica. {{% /staticref %}}
