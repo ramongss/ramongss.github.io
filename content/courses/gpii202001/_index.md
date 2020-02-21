@@ -6,8 +6,8 @@ weight: 1
 
 # Page metadata.
 title: Gestão da Produção II
-date: ""
-lastmod: "2020-02-19"
+date: 
+lastmod: 
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -61,14 +61,14 @@ Os alunos ao final do curso irão possuir as habilidades de:
 * **Frequência (segundo lei da IES):** Mínimo de 75% de frequências às aulas.
 * **Aulas:** Expositivas -- Aspectos teóricos e práticos (mercado).
 * **Pré-requisitos para aprovação:**
-	* Média aritmética das notas parciais -- $ \text{MAP} \geq 7$: **APROVAÇÃO DIRETA** 
-	* $\text{MAP} < 4$: <span style="color:red"> **REPROVAÇÃO DIRETA** </span> (sem avaliação final) 
-	* $4 \leq \text{MAP} < 7$: Avaliação Final (Média Aritmética Final - $\text{MAF}$)
-	* $ \text{MAF} \geq 5 $: **APROVAÇÃO**
+	* Média aritmética das notas parciais -- $ \text{MAP} \geq 70.0$: **APROVAÇÃO DIRETA** 
+	* $\text{MAP} < 70.0$: Avaliação Final
+	* Avaliação final $\geq 60.0 $: **APROVAÇÃO**
+	* Avaliação final $< 60.0$: <span style="color:red"> **REPROVAÇÃO** </span>
 
-<!-- {{% alert warning %}}
-Não há 2ª chamada
-{{% /alert %}} -->
+{{% alert warning %}}
+Não há 2ª chamada para nenhuma prova
+{{% /alert %}}
 
 ---
 

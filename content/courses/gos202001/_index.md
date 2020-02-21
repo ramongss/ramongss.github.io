@@ -6,8 +6,8 @@ weight: 1
 
 # Page metadata.
 title: Gestão de Operações e Serviços
-date: ""
-lastmod: "2020-02-19"
+date: 
+lastmod: 
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -90,5 +90,5 @@ A avaliação da disciplina se dará da seguinte maneira:
 
 ### Execução da disciplina
 
-<!-- 1. {{% staticref "pdfs/gpii202001/Aula-00.pdf" "newtab" %}} Aula 00: Introdução à disciplina e regras do jogo {{% /staticref %}}
-1. {{% staticref "pdfs/gpii202001/Aula-01.pdf" "newtab" %}} Aula 01: Introdução aos conceitos de produção e produtividade {{% /staticref %}} -->
+1. {{% staticref "pdfs/gos202001/Aula-00.pdf" "newtab" %}} Aula 00: Introdução à disciplina e regras do jogo {{% /staticref %}}
+1. {{% staticref "pdfs/gos202001/Aula-01.pdf" "newtab" %}} Aula 01: O papel dos serviços na economia {{% /staticref %}}

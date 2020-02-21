@@ -18,7 +18,7 @@ subtitle = ""
 
 My activities as *lecturer*:
 
-- 2020:
+- 2020/1:
     
   - [Gestão da Produção II (Production Management II)]({{< ref "courses/gpii202001/_index.md" >}})
 
