@@ -91,5 +91,5 @@ A avaliação da disciplina se dará da seguinte maneira:
 
 ### Execução da disciplina
 
-1. {{% staticref "pdfs/gpii202001/Aula-00.pdf" "newtab" %}} Aula 00 -- Introdução à disciplina e regras do jogo {{% /staticref %}}
-1. {{% staticref "pdfs/gpii202001/Aula-01.pdf" "newtab" %}} Aula 01 -- Introdução aos conceitos de produção e produtividade {{% /staticref %}}
+1. {{% staticref "pdfs/gpii202001/Aula-00.pdf" "newtab" %}} Aula 00 -- Introdução à disciplina e regras do jogo. {{% /staticref %}}
+2. {{% staticref "pdfs/gpii202001/Aula-01.pdf" "newtab" %}} Aula 01 -- Introdução aos conceitos de produção e produtividade. {{% /staticref %}}
