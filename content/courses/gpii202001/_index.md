@@ -23,7 +23,7 @@ menu:
 
 ### Organização da Disciplina
 
-Professor: **Ramon Gomes da Silva**. A disciplina é ministrada para as turmas de 6º e 7º período do curso de Administração toda terça-feira das 19:15h às 22:00h, na [Uniandrade](https://www.uniandrade.br/) Campus Santa Quitéria.
+Professor: **Ramon Gomes da Silva**. A disciplina é ministrada para as turmas de 6º e 7º período do curso de Administração toda terça-feira das 19:15h às 22:00h, na [Uniandrade -- Campus Cidade Universitária (Santa Quitéria)](https://www.uniandrade.br/).
 
 ---
 

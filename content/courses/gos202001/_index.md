@@ -23,7 +23,7 @@ menu:
 
 ### Organização da Disciplina
 
-Professor: **Ramon Gomes da Silva**. A disciplina é ministrada para a turma de 9º período do curso de Engenharia de Produção toda sexta-feira das 19:15h às 22:00h, na [Uniandrade](https://www.uniandrade.br/) Campus Santa Quitéria.
+Professor: **Ramon Gomes da Silva**. A disciplina é ministrada para a turma de 9º período do curso de Engenharia de Produção toda sexta-feira das 19:15h às 22:00h, na [Uniandrade -- Campus Cidade Universitária (Santa Quitéria)](https://www.uniandrade.br/).
 
 ---
 
@@ -93,3 +93,6 @@ A avaliação da disciplina se dará da seguinte maneira:
 1. {{% staticref "pdfs/gos202001/Aula-00.pdf" "newtab" %}} Aula 00 -- Introdução à disciplina e regras do jogo. {{% /staticref %}}
 2. {{% staticref "pdfs/gos202001/Aula-01.pdf" "newtab" %}} Aula 01 -- O papel dos serviços na economia. {{% /staticref %}}
 	- {{% staticref "pdfs/gos202001/Ex01.pdf" "newtab" %}} Exercício 01 -- Classificar a partir dos 5 estágios da atividade econômica. {{% /staticref %}}
+3. {{% staticref "pdfs/gos202001/Aula-02.pdf" "newtab" %}} Aula 02 -- A natureza dos serviços. {{% /staticref %}}
+	- {{% staticref "pdfs/gos202001/Ex02.pdf" "newtab" %}} Exercício 02 -- Estudo de caso: Village Volvo. {{% /staticref %}}
+	- {{% staticref "pdfs/gos202001/Trab01.pdf" "newtab" %}} Orientação do Trabalho da 1ª Bimestral. {{% /staticref %}}
