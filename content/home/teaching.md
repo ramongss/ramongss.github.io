@@ -23,3 +23,5 @@ My activities as *lecturer*:
   - [Gestão da Produção II (Production Management II)]({{< ref "courses/gpii202001/_index.md" >}})
 
   - [Gestão de Operações e Serviços (Operations and Service Management)]({{< ref "courses/gos202001/_index.md" >}})
+
+  - [Gestão de Recursos Materiais (Material Resource Management)]({{< ref "courses/grm202001/_index.md" >}})
