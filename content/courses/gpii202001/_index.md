@@ -93,5 +93,6 @@ A avaliação da disciplina se dará da seguinte maneira:
 
 1. {{% staticref "pdfs/gpii202001/Aula-00.pdf" "newtab" %}} Aula 00 -- Introdução à disciplina e regras do jogo. {{% /staticref %}}
 2. {{% staticref "pdfs/gpii202001/Aula-01.pdf" "newtab" %}} Aula 01 -- Introdução aos conceitos de produção e produtividade. {{% /staticref %}}
+	- {{% staticref "pdfs/gpii202001/Ex01-Gab.pdf" "newtab" %}} Gabarito do Exercício 01. {{% /staticref %}}
 3. {{% staticref "pdfs/gpii202001/Aula-02.pdf" "newtab" %}} Aula 02 -- Sistema de produção enxuta (*lean manufacturing*). {{% /staticref %}}
 	- {{% staticref "pdfs/gpii202001/Trab01.pdf" "newtab" %}} Orientação do Trabalho da 1ª Bimestral. {{% /staticref %}}
