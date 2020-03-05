@@ -67,7 +67,7 @@ Os alunos ao final do curso irão possuir as habilidades de:
 	* Avaliação final $< 60.0$: <span style="color:red"> **REPROVAÇÃO** </span>
 
 {{% alert warning %}}
-Não há 2ª chamada para nenhuma prova
+**Não há 2ª chamada para nenhuma prova**
 {{% /alert %}}
 
 ---
@@ -76,15 +76,15 @@ Não há 2ª chamada para nenhuma prova
 
 A avaliação da disciplina se dará da seguinte maneira:
 
-* 1º Bimestre
+* **1º Bimestre**
 	* Prova (60%)
 	* Trabalhos e atividades (40%)
-* 2º Bimestre
+* **2º Bimestre**
 	* Prova Integradora (10%)
 	* Projeto Integrador (20%)
 	* Prova (50%)
 	* Trabalhos e atividades (20%)
-* Avaliação Final
+* **Avaliação Final**
 	* Prova (100%) -- Todo o conteúdo
 
 ---

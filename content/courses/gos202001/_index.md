@@ -66,7 +66,7 @@ Os alunos ao final do curso irão possuir as habilidades de:
 	* Avaliação final $< 60.0$: <span style="color:red"> **REPROVAÇÃO** </span>
 
 {{% alert warning %}}
-Não há 2ª chamada para nenhuma prova
+**Não há 2ª chamada para nenhuma prova**
 {{% /alert %}}
 
 ---
@@ -75,15 +75,15 @@ Não há 2ª chamada para nenhuma prova
 
 A avaliação da disciplina se dará da seguinte maneira:
 
-* 1º Bimestre
+* **1º Bimestre**
 	* Prova (60%)
 	* Trabalhos e atividades (40%)
-* 2º Bimestre
+* **2º Bimestre**
 	* Prova Integradora (10%)
 	* Projeto Integrador (20%)
 	* Prova (50%)
 	* Trabalhos e atividades (20%)
-* Avaliação Final
+* **Avaliação Final**
 	* Prova (100%) -- Todo o conteúdo
 
 ---
@@ -96,3 +96,4 @@ A avaliação da disciplina se dará da seguinte maneira:
 3. {{% staticref "pdfs/gos202001/Aula-02.pdf" "newtab" %}} Aula 02 -- A natureza dos serviços. {{% /staticref %}}
 	- {{% staticref "pdfs/gos202001/Ex02.pdf" "newtab" %}} Exercício 02 -- Estudo de caso: Village Volvo. {{% /staticref %}}
 	- {{% staticref "pdfs/gos202001/Trab01.pdf" "newtab" %}} Orientação do Trabalho da 1ª Bimestral. {{% /staticref %}}
+4. {{% staticref "pdfs/gos202001/Aula-03.pdf" "newtab" %}} Aula 03 -- Estratégia em serviços. {{% /staticref %}}
