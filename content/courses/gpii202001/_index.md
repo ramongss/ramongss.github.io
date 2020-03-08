@@ -96,3 +96,4 @@ A avaliação da disciplina se dará da seguinte maneira:
 	- {{% staticref "pdfs/gpii202001/Ex01-Gab.pdf" "newtab" %}} Gabarito do Exercício 01. {{% /staticref %}}
 3. {{% staticref "pdfs/gpii202001/Aula-02.pdf" "newtab" %}} Aula 02 -- Sistema de produção enxuta (*lean manufacturing*). {{% /staticref %}}
 	- {{% staticref "pdfs/gpii202001/Trab01.pdf" "newtab" %}} Orientação do Trabalho da 1ª Bimestral. {{% /staticref %}}
+4. {{% staticref "pdfs/gpii202001/Aula-03.pdf" "newtab" %}} Aula 03 -- Localização de empresas. {{% /staticref %}}
