@@ -97,3 +97,4 @@ A avaliação da disciplina se dará da seguinte maneira:
 	- {{% staticref "pdfs/gos202001/Ex02.pdf" "newtab" %}} Exercício 02 -- Estudo de caso: Village Volvo. {{% /staticref %}}
 	- {{% staticref "pdfs/gos202001/Trab01.pdf" "newtab" %}} Orientação do Trabalho da 1ª Bimestral. {{% /staticref %}}
 4. {{% staticref "pdfs/gos202001/Aula-03.pdf" "newtab" %}} Aula 03 -- Estratégia em serviços. {{% /staticref %}}
+5. {{% staticref "pdfs/gos202001/Aula-04.pdf" "newtab" %}} Aula 04 -- As instalações de apoio. {{% /staticref %}}
