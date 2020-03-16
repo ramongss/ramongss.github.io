@@ -93,3 +93,4 @@ A avaliação da disciplina se dará da seguinte maneira:
 
 1. {{% staticref "pdfs/grm202001/Aula-00.pdf" "newtab" %}} Aula 00 -- Introdução à disciplina e regras do jogo. {{% /staticref %}}
 2. {{% staticref "pdfs/grm202001/Aula-01.pdf" "newtab" %}} Aula 01 -- O papel dos estoques na empresa. {{% /staticref %}}
+3. {{% staticref "pdfs/grm202001/Aula-02.pdf" "newtab" %}} Aula 02 -- Análise dos estoques. {{% /staticref %}}
