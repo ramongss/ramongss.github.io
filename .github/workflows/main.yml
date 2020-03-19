@@ -13,7 +13,7 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@master
         with:
-          submodules: true
+          submodules: recursive
       - name: Publish Portfolio
         uses: chabad360/hugo-gh-pages@bfd5d2fa3abefe9ac3837c6aa9b685122d42feda
         with:
