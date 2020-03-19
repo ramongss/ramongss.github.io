@@ -19,5 +19,5 @@ jobs:
         with:
           githubToken: ${{ secrets.PERSONAL_TOKEN }}
           repo: ramongss/ramongss.github.io
-          hugoVersion: 0.62.2
+          hugoVersion: extended_0.62.2
           branch: master
