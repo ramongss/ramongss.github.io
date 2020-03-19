@@ -1,0 +1,23 @@
+name: Update portfolio
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@master
+        with:
+          submodules: true
+      - name: Publish Portfolio
+        uses: chabad360/hugo-gh-pages@bfd5d2fa3abefe9ac3837c6aa9b685122d42feda
+        with:
+          githubToken: ${{ secrets.PERSONAL_TOKEN }}
+          repo: ramongss/ramongss.github.io
+          hugoVersion: 0.62.2
+          branch: master
