@@ -96,3 +96,5 @@ A avaliação da disciplina se dará da seguinte maneira:
 3. {{% staticref "pdfs/grm202001/Aula-02.pdf" "newtab" %}} Aula 02 -- Análise dos estoques. {{% /staticref %}}
 4. {{% staticref "pdfs/grm202001/Aula-03.pdf" "newtab" %}} Aula 03 -- Lote econômico de compra (LEC). {{% /staticref %}}
 	- [Vídeo-aula (YouTube).](https://youtu.be/qJnQ5gG8slA)
+5. {{% staticref "pdfs/grm202001/Aula-04.pdf" "newtab" %}} Aula 04 -- Lote econômico de fabricação (LEF). {{% /staticref %}}
+	- [Vídeo-aula (YouTube).](https://youtu.be/P_JHKij4sbM)
