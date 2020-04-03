@@ -100,3 +100,4 @@ A avaliação da disciplina se dará da seguinte maneira:
 5. {{% staticref "pdfs/gos202001/Aula-04.pdf" "newtab" %}} Aula 04 -- As instalações de apoio. {{% /staticref %}}
 	- [Vídeo-aula (YouTube).](https://youtu.be/lmVXiNNqItU)
 6. {{% staticref "pdfs/gos202001/Aula-05.pdf" "newtab" %}} Aula 05 -- Os serviços e a TI. {{% /staticref %}}
+	- [Vídeo-aula (YouTube).](https://youtu.be/yz1Y3I4m3VU)
