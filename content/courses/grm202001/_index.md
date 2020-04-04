@@ -98,3 +98,5 @@ A avaliação da disciplina se dará da seguinte maneira:
 	- [Vídeo-aula (YouTube).](https://youtu.be/qJnQ5gG8slA)
 5. {{% staticref "pdfs/grm202001/Aula-04.pdf" "newtab" %}} Aula 04 -- Lote econômico de fabricação (LEF). {{% /staticref %}}
 	- [Vídeo-aula (YouTube).](https://youtu.be/P_JHKij4sbM)
+6. {{% staticref "pdfs/grm202001/Aula-05.pdf" "newtab" %}} Aula 05 -- Modelos de estoque. {{% /staticref %}}
+	- [Vídeo-aula](https://youtu.be/z8cf8NqFerM)
