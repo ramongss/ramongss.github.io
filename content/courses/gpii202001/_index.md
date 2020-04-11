@@ -98,4 +98,4 @@ A avaliação da disciplina se dará da seguinte maneira:
 	- {{% staticref "pdfs/gpii202001/Trab01.pdf" "newtab" %}} Orientação do Trabalho da 1ª Bimestral. {{% /staticref %}}
 4. {{% staticref "pdfs/gpii202001/Aula-03.pdf" "newtab" %}} Aula 03 -- Localização de empresas. {{% /staticref %}}
 5. {{% staticref "pdfs/gpii202001/Aula-04.pdf" "newtab" %}} Aula 04 -- Introdução ao controle de qualidade. {{% /staticref %}}
-	- [Vídeo-aula (Youtube).](https://youtu.be/Pu0Hcfa8qwc)
+	- [Vídeo-aula (YouTube).](https://youtu.be/Pu0Hcfa8qwc)
