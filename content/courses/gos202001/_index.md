@@ -101,3 +101,7 @@ A avaliação da disciplina se dará da seguinte maneira:
 	- [Vídeo-aula (YouTube).](https://youtu.be/lmVXiNNqItU)
 6. {{% staticref "pdfs/gos202001/Aula-05.pdf" "newtab" %}} Aula 05 -- Os serviços e a TI. {{% /staticref %}}
 	- [Vídeo-aula (YouTube).](https://youtu.be/yz1Y3I4m3VU)
+7. {{% staticref "pdfs/gos202001/Aula-06.pdf" "newtab" %}} Aula 06 -- Qualidade em serviços. {{% /staticref %}}
+	- [Vídeo-aula (YouTube).](https://youtu.be/YqQMkv6dffI)
+<!-- 8. {{% staticref "pdfs/gos202001/Aula-07.pdf" "newtab" %}} Aula 07 -- Qualidade em serviços (cont.). {{% /staticref %}}
+	- [Vídeo-aula (YouTube).]() -->
