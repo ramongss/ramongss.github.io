@@ -103,5 +103,7 @@ A avaliação da disciplina se dará da seguinte maneira:
 	- [Vídeo-aula (YouTube).](https://youtu.be/yz1Y3I4m3VU)
 7. {{% staticref "pdfs/gos202001/Aula-06.pdf" "newtab" %}} Aula 06 -- Qualidade em serviços. {{% /staticref %}}
 	- [Vídeo-aula (YouTube).](https://youtu.be/YqQMkv6dffI)
-<!-- 8. {{% staticref "pdfs/gos202001/Aula-07.pdf" "newtab" %}} Aula 07 -- Qualidade em serviços (cont.). {{% /staticref %}}
-	- [Vídeo-aula (YouTube).]() -->
+8. {{% staticref "pdfs/gos202001/Revisao-01.pdf" "newtab" %}} Revisão do conteúdo do 1o Bimestre. {{% /staticref %}}
+	- [Vídeo-aula (YouTube).](https://youtu.be/HqMsNQj2D9M) 
+<!-- 9. {{% staticref "pdfs/gos202001/Aula-07.pdf" "newtab" %}} Aula 07 -- Qualidade em serviços (cont.). {{% /staticref %}}
+	- [Vídeo-aula (YouTube).](https://youtu.be/Cejg169jrs0) -->
