@@ -102,3 +102,5 @@ A avaliação da disciplina se dará da seguinte maneira:
 	- [Vídeo-aula (YouTube).](https://youtu.be/z8cf8NqFerM)
 7. {{% staticref "pdfs/grm202001/Aula-06.pdf" "newtab" %}} Aula 06 -- Modelos de estoque (cont.). {{% /staticref %}}
 	- [Vídeo-aula (YouTube).](https://youtu.be/ee5S6dsnqv8)
+8. {{% staticref "pdfs/grm202001/Revisao-01.pdf" "newtab" %}} Revisão do conteúdo do 1o Bimestre. {{% /staticref %}}
+	- [Vídeo-aula (YouTube).](https://youtu.be/vicmPhx9xdY)
