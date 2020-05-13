@@ -8,5 +8,6 @@ abstract: "The intermittent nature of wind can represent an obstacle to get reli
 featured: true
 publication: "*Energy Conversion and Management*"
 doi: "10.1016/j.enconman.2020.112869"
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S0196890420304076"
 ---
 
