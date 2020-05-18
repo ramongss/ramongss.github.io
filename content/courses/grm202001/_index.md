@@ -104,3 +104,6 @@ A avaliação da disciplina se dará da seguinte maneira:
 	- [Vídeo-aula (YouTube).](https://youtu.be/ee5S6dsnqv8)
 8. {{% staticref "pdfs/grm202001/Revisao-01.pdf" "newtab" %}} Revisão do conteúdo do 1o Bimestre. {{% /staticref %}}
 	- [Vídeo-aula (YouTube).](https://youtu.be/vicmPhx9xdY)
+9. {{% staticref "pdfs/grm202001/Aula-07.pdf" "newtab" %}} Aula 07 -- Gestão de compras. {{% /staticref %}}
+	- {{% staticref "pdfs/grm202001/Trab-01.pdf" "newtab" %}} Estudo de caso 01 -- Cinco bifes e uma berinjela. {{% /staticref %}}
+	- [Vídeo-aula (YouTube).](https://youtu.be/l3IGcCCwtHY)
