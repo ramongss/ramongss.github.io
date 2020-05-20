@@ -101,5 +101,7 @@ A avaliação da disciplina se dará da seguinte maneira:
 	- [Vídeo-aula (YouTube).](https://youtu.be/Pu0Hcfa8qwc)
 5. {{% staticref "pdfs/gpii202001/Aula-05.pdf" "newtab" %}} Aula 05 -- Programas de qualidade. {{% /staticref %}}
 	- [Vídeo-aula (YouTube).](https://youtu.be/h8P5dotouPE)
-6. {{% staticref "pdfs/gpii202001/Revisao-01.pdf" "newtab" %}} Revisão do conteúdo 1o Bimestre {{% /staticref %}}
+6. {{% staticref "pdfs/gpii202001/Revisao-01.pdf" "newtab" %}} Revisão do conteúdo 1o Bimestre. {{% /staticref %}}
 	- [Vídeo-aula (YouTube).](https://youtu.be/qZyvlEAtiO4)
+7. {{% staticref "pdfs/gpii202001/Aula-06.pdf" "newtab" %}} Aula 06 -- Ferramentas para o controle de qualidade. {{% /staticref %}}
+	- [Vídeo-aula (YouTube).](https://youtu.be/0E3HQe-cqZs)
