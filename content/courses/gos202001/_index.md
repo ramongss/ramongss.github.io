@@ -108,3 +108,4 @@ A avaliação da disciplina se dará da seguinte maneira:
 9. {{% staticref "pdfs/gos202001/Aula-07.pdf" "newtab" %}} Aula 07 -- Qualidade em serviços (cont.). {{% /staticref %}}
 	- [Vídeo-aula (YouTube).](https://youtu.be/Cejg169jrs0)
 10. {{% staticref "pdfs/gos202001/Aula-08.pdf" "newtab" %}} Aula 08 -- O encontro de serviço. {{% /staticref %}}
+	- [Vídeo-aula (YouTube).](https://youtu.be/WrJImyclBdQ)
