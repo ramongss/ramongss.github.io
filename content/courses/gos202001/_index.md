@@ -109,3 +109,5 @@ A avaliação da disciplina se dará da seguinte maneira:
 	- [Vídeo-aula (YouTube).](https://youtu.be/Cejg169jrs0)
 10. {{% staticref "pdfs/gos202001/Aula-08.pdf" "newtab" %}} Aula 08 -- O encontro de serviço. {{% /staticref %}}
 	- [Vídeo-aula (YouTube).](https://youtu.be/WrJImyclBdQ)
+11. {{% staticref "pdfs/gos202001/Aula-09.pdf" "newtab" %}} Aula 09 -- Gerenciamento de capacidade e demanda. {{% /staticref %}}
+	- [Vídeo-aula (YouTube).](https://youtu.be/5-FjeLR4hEA)

@@ -99,11 +99,11 @@ A avaliação da disciplina se dará da seguinte maneira:
 4. {{% staticref "pdfs/gpii202001/Aula-03.pdf" "newtab" %}} Aula 03 -- Localização de empresas. {{% /staticref %}}
 5. {{% staticref "pdfs/gpii202001/Aula-04.pdf" "newtab" %}} Aula 04 -- Introdução ao controle de qualidade. {{% /staticref %}}
 	- [Vídeo-aula (YouTube).](https://youtu.be/Pu0Hcfa8qwc)
-5. {{% staticref "pdfs/gpii202001/Aula-05.pdf" "newtab" %}} Aula 05 -- Programas de qualidade. {{% /staticref %}}
+6. {{% staticref "pdfs/gpii202001/Aula-05.pdf" "newtab" %}} Aula 05 -- Programas de qualidade. {{% /staticref %}}
 	- [Vídeo-aula (YouTube).](https://youtu.be/h8P5dotouPE)
-6. {{% staticref "pdfs/gpii202001/Revisao-01.pdf" "newtab" %}} Revisão do conteúdo 1o Bimestre. {{% /staticref %}}
+7. {{% staticref "pdfs/gpii202001/Revisao-01.pdf" "newtab" %}} Revisão do conteúdo 1o Bimestre. {{% /staticref %}}
 	- [Vídeo-aula (YouTube).](https://youtu.be/qZyvlEAtiO4)
-7. {{% staticref "pdfs/gpii202001/Aula-06.pdf" "newtab" %}} Aula 06 -- Ferramentas para o controle de qualidade. {{% /staticref %}}
+8. {{% staticref "pdfs/gpii202001/Aula-06.pdf" "newtab" %}} Aula 06 -- Ferramentas para o controle de qualidade. {{% /staticref %}}
 	- [Vídeo-aula (YouTube).](https://youtu.be/0E3HQe-cqZs)
-8. {{% staticref "pdfs/gpii202001/Aula-07.pdf" "newtab" %}} Aula 07 -- Ferramentas para o controle de qualidade (cont.). {{% /staticref %}}
+9. {{% staticref "pdfs/gpii202001/Aula-07.pdf" "newtab" %}} Aula 07 -- Ferramentas para o controle de qualidade (cont.). {{% /staticref %}}
 	- [Vídeo-aula (YouTube).](https://youtu.be/8bTDUh0UTRk)
