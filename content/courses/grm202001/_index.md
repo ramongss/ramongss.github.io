@@ -109,3 +109,5 @@ A avaliação da disciplina se dará da seguinte maneira:
 	- [Vídeo-aula (YouTube).](https://youtu.be/l3IGcCCwtHY)
 10. {{% staticref "pdfs/grm202001/Aula-08.pdf" "newtab" %}} Aula 08 -- Recursos patrimoniais. {{% /staticref %}}
 	- [Vídeo-aula (YouTube).](https://youtu.be/HjnoGl-QD0U)
+11. {{% staticref "pdfs/grm202001/Aula-09.pdf" "newtab" %}} Aula 09 -- Manutenção de ativos imobilizados. {{% /staticref %}}
+	- [Vídeo-aula (YouTube).](https://youtu.be/Td8OlNBGwmc)
