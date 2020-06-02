@@ -107,3 +107,5 @@ A avaliação da disciplina se dará da seguinte maneira:
 	- [Vídeo-aula (YouTube).](https://youtu.be/0E3HQe-cqZs)
 9. {{% staticref "pdfs/gpii202001/Aula-07.pdf" "newtab" %}} Aula 07 -- Ferramentas para o controle de qualidade (cont.). {{% /staticref %}}
 	- [Vídeo-aula (YouTube).](https://youtu.be/8bTDUh0UTRk)
+10. {{% staticref "pdfs/gpii202001/Aula-08.pdf" "newtab" %}} Aula 08 -- Ferramentas para o controle de qualidade (cont.). {{% /staticref %}}
+	- [Vídeo-aula (YouTube).](https://youtu.be/SCAmn_1AbFI)
