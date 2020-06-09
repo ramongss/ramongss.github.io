@@ -111,3 +111,5 @@ A avaliação da disciplina se dará da seguinte maneira:
 	- [Vídeo-aula (YouTube).](https://youtu.be/HjnoGl-QD0U)
 11. {{% staticref "pdfs/grm202001/Aula-09.pdf" "newtab" %}} Aula 09 -- Manutenção de ativos imobilizados. {{% /staticref %}}
 	- [Vídeo-aula (YouTube).](https://youtu.be/Td8OlNBGwmc)
+12. {{% staticref "pdfs/grm202001/Aula-10.pdf" "newtab" %}} Aula 10 -- A abordagem logística. {{% /staticref %}}
+	- [Vídeo-aula (YouTube).](https://youtu.be/Q9H8NadBs-w)

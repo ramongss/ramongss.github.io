@@ -111,3 +111,5 @@ A avaliação da disciplina se dará da seguinte maneira:
 	- [Vídeo-aula (YouTube).](https://youtu.be/WrJImyclBdQ)
 11. {{% staticref "pdfs/gos202001/Aula-09.pdf" "newtab" %}} Aula 09 -- Gerenciamento de capacidade e demanda. {{% /staticref %}}
 	- [Vídeo-aula (YouTube).](https://youtu.be/5-FjeLR4hEA)
+12. {{% staticref "pdfs/gos202001/Aula-10.pdf" "newtab" %}} Aula 10 -- Gerenciamento de filas. {{% /staticref %}}
+	- [Vídeo-aula (YouTube).](https://youtu.be/vP6pGyzjQoM)

@@ -109,3 +109,5 @@ A avaliação da disciplina se dará da seguinte maneira:
 	- [Vídeo-aula (YouTube).](https://youtu.be/8bTDUh0UTRk)
 10. {{% staticref "pdfs/gpii202001/Aula-08.pdf" "newtab" %}} Aula 08 -- Ferramentas para o controle de qualidade (cont.). {{% /staticref %}}
 	- [Vídeo-aula (YouTube).](https://youtu.be/SCAmn_1AbFI)
+11. {{% staticref "pdfs/gpii202001/Aula-09.pdf" "newtab" %}} Aula 09 -- Controle estatístico de processo. {{% /staticref %}}
+	- [Vídeo-aula (YouTube).](https://youtu.be/4vP-wpESn28)
