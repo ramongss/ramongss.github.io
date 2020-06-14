@@ -113,3 +113,5 @@ A avaliação da disciplina se dará da seguinte maneira:
 	- [Vídeo-aula (YouTube).](https://youtu.be/Td8OlNBGwmc)
 12. {{% staticref "pdfs/grm202001/Aula-10.pdf" "newtab" %}} Aula 10 -- A abordagem logística. {{% /staticref %}}
 	- [Vídeo-aula (YouTube).](https://youtu.be/Q9H8NadBs-w)
+12. {{% staticref "pdfs/grm202001/Aula-11.pdf" "newtab" %}} Aula 11 -- Gerenciamento da cadeia de suprimentos. {{% /staticref %}}
+	- [Vídeo-aula (YouTube).](https://youtu.be/OzaTJ9h3_1c)
