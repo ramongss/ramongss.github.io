@@ -111,3 +111,5 @@ A avaliação da disciplina se dará da seguinte maneira:
 	- [Vídeo-aula (YouTube).](https://youtu.be/SCAmn_1AbFI)
 11. {{% staticref "pdfs/gpii202001/Aula-09.pdf" "newtab" %}} Aula 09 -- Controle estatístico de processo. {{% /staticref %}}
 	- [Vídeo-aula (YouTube).](https://youtu.be/4vP-wpESn28)
+11. {{% staticref "pdfs/gpii202001/Aula-10.pdf" "newtab" %}} Aula 10 -- Modelos normalizados de sistemas de gestão. {{% /staticref %}}
+	- [Vídeo-aula (YouTube).](https://youtu.be/2iTZYxjFEYQ)
