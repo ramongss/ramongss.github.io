@@ -113,3 +113,5 @@ A avaliação da disciplina se dará da seguinte maneira:
 	- [Vídeo-aula (YouTube).](https://youtu.be/5-FjeLR4hEA)
 12. {{% staticref "pdfs/gos202001/Aula-10.pdf" "newtab" %}} Aula 10 -- Gerenciamento de filas. {{% /staticref %}}
 	- [Vídeo-aula (YouTube).](https://youtu.be/vP6pGyzjQoM)
+13. {{% staticref "pdfs/gos202001/Aula-11.pdf" "newtab" %}} Aula 11 -- Crescimento e globalização dos serviços. {{% /staticref %}}
+	- [Vídeo-aula (YouTube).](https://youtu.be/Flo4ChimGzc)
