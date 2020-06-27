@@ -21,17 +21,17 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Machine Learning
+- Artificial intelligence
+- Machine learning
+- Time Series forecasting
 - Optimization
-- Time Series
 
 education:
   courses:
   - course: PhD in Industrial and Systems Engineering
     institution: Pontifical Catholic University of Parana
     year: 2019 - Current
-  - course: MEng in Industrial and Systems Engineering
+  - course: MSc in Industrial and Systems Engineering
     institution: Pontifical Catholic University of Parana
     year: 2017 - 2019
   - course: BSc in Industrial Engineering (Exchange)
@@ -83,6 +83,4 @@ email: ""
 #- Visitors
 ---
 
-I'm a PhD student in Industrial Engineering and Systems at Pontifical Catholic University of Parana (PUCPR). Master in Industrial Engineering and Systems at PUCPR, 2019. Industrial Engineer graduated at State University of Pará (UEPA) in 2016. 
-
-Currently working on Machine Learning focused on Time Series Forecasting.
+**Ramon Gomes da Silva** received his M.Sc. (2019) in Industrial and Systems Engineering from the *Pontifícia Universidade Católica do Paraná* (Brazil), and his B.Sc. (2016) in Industrial Engineering from the *Universidade do Estado do Pará* (Brazil) with an International Exchange B.Sc. (2014) in Industrial Engineering from the University of Southern Indiana (USA). Currently, he is pursuing the Ph.D degree at the Industrial and Systems Engineering Graduate Program (PPGEPS) of the *Pontifícia Universidade Católica do Paraná (PUCPR)*, Brazil.
