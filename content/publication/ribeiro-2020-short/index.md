@@ -1,6 +1,6 @@
 ---
 title: "Short-term forecasting COVID-19 cumulative confirmed cases: Perspectives for Brazil"
-date: 2020-05-01
+date: 2020-06-01
 publishDate: 2020-05-13T02:27:14.578051Z
 authors: ["Matheus Henrique Dal Molin Ribeiro", "Ramon Gomes da Silva", "Viviana Cocco Mariani", "Leandro dos Santos Coelho"]
 publication_types: ["2"]
