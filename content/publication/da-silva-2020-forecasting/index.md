@@ -9,5 +9,6 @@ featured: True
 publication: "*Chaos, Solitons & Fractals*"
 tags: ["Artificial intelligence", "COVID-19", "Exogenous variables", "Forecasting", "Variational mode decomposition", "Machine learning"]
 doi: "10.1016/j.chaos.2020.110027"
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S0960077920304252"
 ---
 
