@@ -25,3 +25,9 @@ My activities as *lecturer*:
   - [Gestão de Operações e Serviços (Operations and Service Management)]({{< ref "courses/gos202001/_index.md" >}})
 
   - [Gestão de Recursos Materiais (Material Resource Management)]({{< ref "courses/grm202001/_index.md" >}})
+
+- 2020/2:
+
+  - Custos Industriais (Industrial Costs)
+
+  - Gestão da Produção I (Production Management I)
