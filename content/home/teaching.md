@@ -31,3 +31,5 @@ My activities as *lecturer*:
   - Custos Industriais (Industrial Costs)
 
   - Gestão da Produção I (Production Management I)
+  
+  - Tutoria EAD: Gestão de Recursos Materiais e Patrimonial (Web tutoring: Management of Material and Asset Resources)
