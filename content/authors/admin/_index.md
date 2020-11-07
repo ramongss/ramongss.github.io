@@ -21,10 +21,11 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial intelligence
-- Machine learning
-- Time Series forecasting
-- Optimization
+- Artificial Intelligence
+- Machine Learning
+- Time Series Forecasting
+- Decomposition signal
+- Stacking Ensemble-Learning
 
 education:
   courses:
