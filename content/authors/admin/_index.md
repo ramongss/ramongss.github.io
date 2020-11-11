@@ -24,7 +24,7 @@ interests:
 - Artificial Intelligence
 - Machine Learning
 - Time Series Forecasting
-- Decomposition signal
+- Decomposition Signal
 - Stacking Ensemble-Learning
 
 education:

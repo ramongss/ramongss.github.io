@@ -4,7 +4,8 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "About me"
+  pre = "<i class='fas fa-user'></i>"
+  name = " About me"
   url = "#about"
   weight = 10
 
@@ -19,21 +20,19 @@
 #  weight = 30
 
 [[main]]
+  pre = "<i class='fas fa-pen-nib'></i> "
   name = "Publications"
   url = "#featured"
   weight = 40
 
 [[main]]
+  pre = "<i class='fas fa-chalkboard-teacher'></i> "
   name = "Teaching"
   url = "#teaching"
   weight = 50
 
-# [[main]]
-#   name = "Courses"
-#   url = "courses/"
-#   weight = 60
-
 [[main]]
+  pre = "<i class='fas fa-envelope'></i> "
   name = "Contact"
   url = "#contact"
   weight = 70
