@@ -21,19 +21,19 @@
 
 [[main]]
   pre = "<i class='fas fa-pen-nib'></i> "
-  name = "Publications"
+  name = " Publications"
   url = "#featured"
   weight = 40
 
 [[main]]
   pre = "<i class='fas fa-chalkboard-teacher'></i> "
-  name = "Teaching"
+  name = " Teaching"
   url = "#teaching"
   weight = 50
 
 [[main]]
   pre = "<i class='fas fa-envelope'></i> "
-  name = "Contact"
+  name = " Contact"
   url = "#contact"
   weight = 70
 
