@@ -1,4 +1,4 @@
---
+---
 title: "Wind Energy Multi-Step Ahead Forecasting Based on Variational Mode Decomposition"
 date: 2020-11-01
 publishDate: 2020-12-21T17:59:02.477472Z
@@ -9,5 +9,5 @@ featured: false
 publication: "*Proceedings of the 18th Brazilian Congress of Thermal Sciences and Engineering*"
 url_slides: '/slides/2020-ENCIT-RAMON.pdf'
 doi: "10.26678/ABCM.ENCIT2020.CIT20-0400"
---
+---
 
