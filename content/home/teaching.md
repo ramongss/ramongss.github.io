@@ -15,16 +15,15 @@ subtitle = "My activities as *lecturer*"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
-
-# My activities as *lecturer*:
-
-# - 2020/1:
+<!---
+- 2020/1:
     
-#   - [Gestão da Produção II (Production Management II)]({{< ref "courses/gpii202001/_index.md" >}})
+  - [Gestão da Produção II (Production Management II)]({{< ref "courses/gpii202001/_index.md" >}})
 
-#   - [Gestão de Operações e Serviços (Operations and Service Management)]({{< ref "courses/gos202001/_index.md" >}})
+  - [Gestão de Operações e Serviços (Operations and Service Management)]({{< ref "courses/gos202001/_index.md" >}})
 
-#   - [Gestão de Recursos Materiais (Material Resource Management)]({{< ref "courses/grm202001/_index.md" >}})
+  - [Gestão de Recursos Materiais (Material Resource Management)]({{< ref "courses/grm202001/_index.md" >}})
+-->
 
 - 2020/2:
 
