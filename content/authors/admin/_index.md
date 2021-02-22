@@ -21,11 +21,11 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Machine Learning
-- Time Series Forecasting
-- Decomposition Signal
-- Stacking Ensemble-Learning
+- Artificial intelligence
+- Machine learning
+- Time series forecasting
+- Decomposition signal
+- Stacking ensemble-learning
 
 education:
   courses:
@@ -84,4 +84,4 @@ email: ""
 #- Visitors
 ---
 
-**Ramon Gomes da Silva** received his M.Sc. (2019) in Industrial and Systems Engineering from the *Pontifícia Universidade Católica do Paraná* (Brazil), and his B.Sc. (2016) in Industrial Engineering from the *Universidade do Estado do Pará* (Brazil) with an International Exchange B.Sc. (2014) in Industrial Engineering from the University of Southern Indiana (USA). Currently, he is pursuing the Ph.D degree at the Industrial and Systems Engineering Graduate Program (PPGEPS) of the *Pontifícia Universidade Católica do Paraná (PUCPR)*, Brazil.
+**Ramon Gomes da Silva** received his M.Sc. (2019) in Industrial and Systems Engineering from the *Pontifícia Universidade Católica do Paraná* (Brazil), and his B.Sc. (2016) in Industrial Engineering from the *Universidade do Estado do Pará* (Brazil) with an International Exchange B.Sc. (2014) in Industrial Engineering from the University of Southern Indiana (USA). Currently, he is pursuing the Ph.D degree at the Industrial and Systems Engineering Graduate Program (PPGEPS) of the *Pontifícia Universidade Católica do Paraná (PUCPR)*, Brazil.
