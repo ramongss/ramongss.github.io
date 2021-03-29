@@ -65,9 +65,7 @@ Os alunos ao final do curso irão possuir as habilidades de:
 	* Avaliação final $\geq 60.0 $: **APROVAÇÃO**
 	* Avaliação final $< 60.0$: <span style="color:red"> **REPROVAÇÃO** </span>
 
-{{% alert warning %}}
 **Não há 2ª chamada para nenhuma prova**
-{{% /alert %}}
 
 ---
 
