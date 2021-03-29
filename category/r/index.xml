@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>R | Ramon Gomes da Silva</title><link>https://ramongss.github.io/blog/category/r/</link><atom:link href="https://ramongss.github.io/blog/category/r/index.xml" rel="self" type="application/rss+xml"/><description>R</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ramon G. da Silva</copyright><lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><image><url>https://ramongss.github.io/blog/media/icon_hu78d49fe0e9117182b70900a4d28b3355_25911_512x512_fill_lanczos_center_2.png</url><title>R</title><link>https://ramongss.github.io/blog/category/r/</link></image><item><title>Hello R Markdown</title><link>https://ramongss.github.io/blog/post/2020-12-01-r-rmarkdown/</link><pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate><guid>https://ramongss.github.io/blog/post/2020-12-01-r-rmarkdown/</guid><description>
+&lt;script src="https://ramongss.github.io/blog/post/2020-12-01-r-rmarkdown/index.en_files/header-attrs/header-attrs.js">&lt;/script>
+&lt;div id="r-markdown" class="section level1">
+&lt;h1>R Markdown&lt;/h1>
+&lt;p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com&lt;/a>.&lt;/p>
+&lt;p>You can embed an R code chunk like this:&lt;/p>
+&lt;pre class="r">&lt;code>summary(cars)
+## speed dist
+## Min. : 4.0 Min. : 2.00
+## 1st Qu.:12.0 1st Qu.: 26.00
+## Median :15.0 Median : 36.00
+## Mean :15.4 Mean : 42.98
+## 3rd Qu.:19.0 3rd Qu.: 56.00
+## Max. :25.0 Max. :120.00
+fit &amp;lt;- lm(dist ~ speed, data = cars)
+fit
+##
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+##
+## Coefficients:
+## (Intercept) speed
+## -17.579 3.932&lt;/code>&lt;/pre>
+&lt;/div>
+&lt;div id="including-plots" class="section level1">
+&lt;h1>Including Plots&lt;/h1>
+&lt;p>You can also embed plots. See Figure &lt;a href="#fig:pie">1&lt;/a> for example:&lt;/p>
+&lt;pre class="r">&lt;code>par(mar = c(0, 1, 0, 1))
+pie(
+c(280, 60, 20),
+c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
+col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
+init.angle = -50, border = NA
+)&lt;/code>&lt;/pre>
+&lt;div class="figure">&lt;span id="fig:pie">&lt;/span>
+&lt;img src="https://ramongss.github.io/blog/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
+&lt;p class="caption">
+Figure 1: A fancy pie chart.
+&lt;/p>
+&lt;/div>
+&lt;/div></description></item></channel></rss>
