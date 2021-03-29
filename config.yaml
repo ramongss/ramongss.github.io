@@ -5,7 +5,7 @@ theme: "starter-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Ramon Gomes da Silva # Website name
-baseurl: 'https://ramongss.github.io/blog/' # Website URL
+baseurl: 'https://ramongss.github.io/' # Website URL
 copyright: '© {year} Ramon G. da Silva' # Footer text, e.g. '© {year} Me'
 
 ############################
