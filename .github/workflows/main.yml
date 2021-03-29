@@ -18,6 +18,5 @@ jobs:
         uses: chabad360/hugo-gh-pages@bfd5d2fa3abefe9ac3837c6aa9b685122d42feda
         with:
           githubToken: ${{ secrets.PERSONAL_TOKEN }}
-          repo: ramongss/ramongss.github.io
           hugoVersion: extended_0.62.2
-          branch: master
+          branch: gh-pages
