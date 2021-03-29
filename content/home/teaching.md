@@ -1,30 +1,45 @@
-+++
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
+---
+# An instance of the Blank widget.
+# Documentation: https://wowchemy.com/docs/getting-started/page-builder/
+widget: blank
 
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 100  # Order that this section will appear.
+# Activate this widget? true/false
+active: true
 
-title = "Teaching"
-subtitle = "My activities as *lecturer*"
+# This file represents a page section.
+headless: true
 
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
-+++
+# Order that this section appears on the page.
+weight: 100
+
+title: Teaching
+subtitle: My recent activities as *lecturer* at [Uniandrade](https://uniandrade.br/) (last two semesters)
+
+design:
+  columns: "1"
+  background:
+    image: open-book.jpg
+    image_darken: 1.0
+    image_parallax: true
+    image_position: center
+    image_size: cover
+    text_color_light: false
+  spacing:
+    padding: ["20px", "0", "20px", "0"]
+---
+
+**Courses:**
+
 - 2020/2:
 
-  - Custos Industriais (Industrial Costs)
+  - *Custos Industriais* (Industrial Costs)
 
-  - Gestão da Produção I (Production Management I)
+  - *Gestão da Produção I* (Production Management I)
   
-  - Tutoria EAD: Gestão de Recursos Materiais e Patrimonial (Web tutoring: Management of Material and Asset Resources)
+  - *Tutoria EAD: Gestão de Recursos Materiais e Patrimonial* (Web tutoring: Management of Material and Asset Resources)
 
 - 2021/1:
   
-  - Métodos Heurísticos (Heuristics Methods)
+  - *Métodos Heurísticos* (Heuristics Methods)
   
-  - Tecnologia e Sistemas de Informação (Technology and Systems Information)
+  - *Tecnologia e Sistemas de Informação* (Technology and Systems Information)
