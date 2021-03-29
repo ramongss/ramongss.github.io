@@ -40,14 +40,11 @@ social:
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?hl=pt-BR&user=s00ZdLQAAAAJ
-# - icon: lattes
-#   icon_pack: ai
-#   link: http://lattes.cnpq.br/5215999364926772
 - icon: researchgate
-  icon_pack: ai
+  icon_pack: fab
   link: https://www.researchgate.net/profile/Ramon_Gomes_Da_Silva
 - icon: orcid
-  icon_pack: ai
+  icon_pack: fab
   link: https://orcid.org/0000-0001-8580-7695
 - icon: linkedin
   icon_pack: fab
