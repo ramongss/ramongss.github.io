@@ -43,3 +43,11 @@ design:
   - *Métodos Heurísticos* (Heuristics Methods)
   
   - *Tecnologia e Sistemas de Informação* (Technology and Systems Information)
+
+- 2021/2:
+
+  - *Planejamento Estratégico* (Strategic Planning)
+  
+  - *Inteligência Artificial Aplicada* (Applied Artificial Intelligence)
+  
+  - *Gerenciamento de Operações e Serviços* (Operations and Services Management)
