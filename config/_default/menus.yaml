@@ -16,9 +16,9 @@ main:
 #  - name: Teaching
 #    url: '#teaching'
 #    weight: 40
-  - name: Contact
-    url: '#contact'
-    weight: 50
+# - name: Contact
+#   url: '#contact'
+#   weight: 50
   - name: Curriculum Lattes
     url: 'http://lattes.cnpq.br/5215999364926772'
     weight: 60

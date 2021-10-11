@@ -36,7 +36,8 @@ role: PhD student of Computational Intelligence
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  # link: /#contact
+  link: mailto:ramongs1406@gmail.com
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?hl=pt-BR&user=s00ZdLQAAAAJ
