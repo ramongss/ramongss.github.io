@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ramon Gomes da Silva</title><link>https://ramongss.github.io/</link><atom:link href="https://ramongss.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Ramon Gomes da Silva</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ramon G. da Silva</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>https://ramongss.github.io/media/icon_hu78d49fe0e9117182b70900a4d28b3355_25911_512x512_fill_lanczos_center_2.png</url><title>Ramon Gomes da Silva</title><link>https://ramongss.github.io/</link></image><item><title>Python basics</title><link>https://ramongss.github.io/courses/example/python/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ramongss.github.io/courses/example/python/</guid><description>&lt;p>Build a foundation in Python.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ramon Gomes da Silva</title><link>https://ramongss.github.io/</link><atom:link href="https://ramongss.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Ramon Gomes da Silva</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ramon G. da Silva</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>https://ramongss.github.io/media/icon_hu78d49fe0e9117182b70900a4d28b3355_25911_512x512_fill_lanczos_center_3.png</url><title>Ramon Gomes da Silva</title><link>https://ramongss.github.io/</link></image><item><title>Python basics</title><link>https://ramongss.github.io/courses/example/python/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ramongss.github.io/courses/example/python/</guid><description>&lt;p>Build a foundation in Python.&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 1-2 hours per week, for 8 weeks&lt;/p>
 &lt;h2 id="learn">Learn&lt;/h2>
@@ -186,7 +186,7 @@ data.head()
 &lt;p>Academic supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> chart format.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-534912867" class="chart">&lt;/div>
+&lt;div id="chart-238149657" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -195,7 +195,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-534912867', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-238149657', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
@@ -449,7 +449,7 @@ date: 2019-09-01
 &lt;pre>&lt;code class="language-bash">jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
 &lt;/code>&lt;/pre>
 &lt;h2 id="example">Example&lt;/h2>
-&lt;p>This post was created with Jupyter. The orginal files can be found at &lt;a href="https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter">https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a>&lt;/p></description></item><item><title>Slides</title><link>https://ramongss.github.io/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://ramongss.github.io/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
+&lt;p>This post was created with Jupyter. The orginal files can be found at &lt;a href="https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter" target="_blank" rel="noopener">https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a>&lt;/p></description></item><item><title>Slides</title><link>https://ramongss.github.io/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://ramongss.github.io/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
 &lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://owchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
 &lt;hr>
 &lt;h2 id="features">Features&lt;/h2>
