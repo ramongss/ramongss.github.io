@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: ramongs1406@gmail.com
+# email: ramongs1406@gmail.com
 # phone:
 # address:
 #   street: 450 Serra Mall
@@ -38,7 +38,7 @@ email: ramongs1406@gmail.com
 #   - 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
 
-contact_links:
+# contact_links:
   # - icon: twitter
   #   icon_pack: fab
   #   name: DM Me
@@ -55,10 +55,10 @@ contact_links:
   #   icon_pack: fas
   #   name: Discuss on Forum
   #   link: 'https://discourse.gohugo.io'
-  - icon: telegram
-    icon_pack: fab
-    name: Telegram me
-    link: 'https://t.me/ramongss'
+  # - icon: telegram
+  #   icon_pack: fab
+  #   name: Telegram me
+  #   link: 'https://t.me/ramongss'
 
 # Site header
 
@@ -147,10 +147,10 @@ search:
     api_key: ''
     index_name: ''
     show_logo: false
-map:
-  provider: mapnik
-  api_key: ''
-  zoom: 15
+# map:
+#   provider: mapnik
+#   api_key: ''
+#   zoom: 15
 marketing:
   google_analytics: ''
   google_tag_manager: ''
