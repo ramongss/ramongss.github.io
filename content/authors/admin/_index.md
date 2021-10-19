@@ -4,16 +4,16 @@
 education:
   courses:
   - course: PhD in Industrial and Systems Engineering
-    institution: Pontifical Catholic University of Parana
+    institution: Pontifical Catholic University of Parana (BR)
     year: 2019 - Current
   - course: MSc in Industrial and Systems Engineering
-    institution: Pontifical Catholic University of Parana
+    institution: Pontifical Catholic University of Parana (BR)
     year: 2017 - 2019
-  - course: BSc in Industrial Engineering (Exchange)
-    institution: University of Southern Indiana
-    year: 2013 - 2014
+  # - course: BSc in Industrial Engineering (Exchange)
+  #   institution: University of Southern Indiana (USA)
+  #   year: 2013 - 2014
   - course: BSc in Industrial Engineering
-    institution: State University of Para
+    institution: State University of Para (BR) & University of Southern Indiana (USA, Exchange)
     year: 2011 - 2016
 
 email: ""
@@ -21,6 +21,7 @@ email: ""
 highlight_name: false
 
 interests:
+- Data science
 - Artificial intelligence
 - Machine learning
 - Time series forecasting
@@ -34,25 +35,28 @@ organizations:
 role: PhD student of Computational Intelligence
 
 social:
-- icon: envelope
+- icon: twitter
   icon_pack: fas
-  # link: /#contact
-  link: mailto:ramongs1406@gmail.com
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.com/citations?hl=pt-BR&user=s00ZdLQAAAAJ
-- icon: researchgate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/Ramon_Gomes_Da_Silva
-- icon: orcid
-  icon_pack: fab
-  link: https://orcid.org/0000-0001-8580-7695
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/ramongomesdasilva/
+  link: https://twitter.com/ramongss
 - icon: github
   icon_pack: fab
   link: https://github.com/ramongss
+- icon: graduation-cap
+  icon_pack: fas
+  link: https://scholar.google.com/citations?hl=pt-BR&user=s00ZdLQAAAAJ
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/ramongomesdasilva/
+# - icon: envelope
+#   icon_pack: fas
+#   # link: /#contact
+#   link: mailto:ramongs1406@gmail.com
+# - icon: researchgate
+#   icon_pack: fab
+#   link: https://www.researchgate.net/profile/Ramon_Gomes_Da_Silva
+# - icon: orcid
+#   icon_pack: fab
+#   link: https://orcid.org/0000-0001-8580-7695
 
 superuser: true
 
