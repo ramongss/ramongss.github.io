@@ -36,7 +36,7 @@ role: PhD student of Computational Intelligence
 
 social:
 - icon: twitter
-  icon_pack: fas
+  icon_pack: fab
   link: https://twitter.com/ramongss
 - icon: github
   icon_pack: fab
