@@ -31,8 +31,10 @@ interests:
 organizations:
 - name: Pontifical Catholic University of Parana
   url: https://pucpr.br
-
-role: PhD student of Computational Intelligence
+- name: Hilab
+  url: https://hilab.com.br/en/
+  
+role: PhD student of Computational Intelligence and Data Scientist
 
 social:
 - icon: twitter
@@ -65,10 +67,8 @@ title: Ramon Gomes da Silva
 
 # `> Hello, World!` :wave:
 
-I am _Ramon G. da Silva_ [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></img>][RamonID], PhD student in the [Industrial and Systems Engineering Graduate Program - PUCPR](https://www.pucpr.br/escola-politecnica/industrial-and-systems/) :mortar_board:, and Data Scientist at [Hilab (HealthTech Startup)](https://hilab.com.br/en/) :man_health_worker:. 
+I am _Ramon G. da Silva_, PhD student in the [Industrial and Systems Engineering Graduate Program - PUCPR](https://www.pucpr.br/escola-politecnica/industrial-and-systems/) :mortar_board:, and Data Scientist at [Hilab (HealthTech Startup)](https://hilab.com.br/en/) :man_health_worker:. 
 
-I've been researching on applications of machine learning and artificial intelligence approaches to time series forecasting :chart_with_upwards_trend:. Some applications of forecasting in diverse datasets, such as: [wind energy of a turbine in a wind farm in Brazil](https://www.sciencedirect.com/science/article/abs/pii/S0360544220322817); [COVID-19 cases in Brazil and USA context coupled with meteorological variables](https://www.sciencedirect.com/science/article/abs/pii/S0960077920304252); and [Cryptocurrecy (Bitcoin) price over time](https://ieeexplore.ieee.org/document/9207152). 
+I've been researching on applications of machine learning and artificial intelligence approaches to time series forecasting :chart_with_upwards_trend:. Some applications of forecasting in diverse datasets, such as: [Wind energy of a turbine in a wind farm in Brazil](https://www.sciencedirect.com/science/article/abs/pii/S0360544220322817); [COVID-19 cases in Brazil and USA context coupled with meteorological variables](https://www.sciencedirect.com/science/article/abs/pii/S0960077920304252); and [Cryptocurrecy (Bitcoin) price over time](https://ieeexplore.ieee.org/document/9207152). 
 
 I am a [#rstats](https://www.r-project.org/) user, currently learning more about Python :snake:. I'm also an amateur guitarist :guitar: who recorded some rock singles on [Spotify](https://open.spotify.com/artist/5H5Ht9iimWk5MVXMQV3Ta9?si=yriOrXVKScSGYsjDfVdEUw) (check it out). You can find me on [Twitter](https://twitter.com/ramongss) :envelope: (or any other social account) and perhaps we can curse the latest Star Wars trilogy together :sweat_smile:	(still sad about that).
-
-[RamonID]: https://orcid.org/0000-0001-8580-7695
