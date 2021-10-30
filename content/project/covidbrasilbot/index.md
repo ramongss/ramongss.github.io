@@ -2,7 +2,7 @@
 date: "2021-10-29T00:00:00Z"
 external_link: ""
 image:
-  caption: Twitter page of the @covidbrasilbot
+  caption: Twitter page of the covidbrasilbot
   focal_point: Smart
 links:
 - icon: twitter
@@ -10,7 +10,7 @@ links:
   name: Follow
   url: https://twitter.com/covidbrasilbot
 # slides: example
-summary: 🤖 A Twitter bot that reports the number of confirmed cases and deaths by #COVID19 in Brazil using {rtweet} and Github Actions.
+summary: A Twitter bot that reports the number of confirmed cases and deaths by COVID-19 in Brazil using rtweet and Github Actions.
 tags:
 - COVID-19
 - Twitter
