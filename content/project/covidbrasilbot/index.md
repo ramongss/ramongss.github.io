@@ -16,7 +16,7 @@ tags:
 - Twitter
 - Bot
 - R
-title: @covibrasilbot: a Twitter bot
+title: covibrasilbot: a Twitter bot
 url_code: "https://github.com/ramongss/covidbrasilbot/"
 url_pdf: ""
 url_slides: ""
