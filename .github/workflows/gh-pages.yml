@@ -15,7 +15,7 @@ jobs:
         with:
           submodules: true
       - name: Publish Site
-        uses: chabad360/hugo-gh-pages@master
+        uses: chabad360/hugo-gh-pages@v1.2
         with:
           githubToken: ${{ secrets.GITHUB_TOKEN }}
           branch: gh-pages
