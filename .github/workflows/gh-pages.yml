@@ -18,4 +18,5 @@ jobs:
         uses: chabad360/hugo-gh-pages@v1.2
         with:
           githubToken: ${{ secrets.GITHUB_TOKEN }}
+          hugoVersion: extended_0.89.4
           branch: gh-pages
