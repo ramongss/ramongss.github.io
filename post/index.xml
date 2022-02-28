@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | Ramon Gomes da Silva</title><link>https://ramongss.github.io/post/</link><atom:link href="https://ramongss.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ramon G. da Silva</copyright><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate><image><url>https://ramongss.github.io/media/icon_hu78d49fe0e9117182b70900a4d28b3355_25911_512x512_fill_lanczos_center_3.png</url><title>Posts</title><link>https://ramongss.github.io/post/</link></image><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://ramongss.github.io/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://ramongss.github.io/post/getting-started/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | Ramon Gomes da Silva</title><link>https://ramongss.github.io/post/</link><atom:link href="https://ramongss.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Ramon G. da Silva</copyright><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate><image><url>https://ramongss.github.io/media/icon_hu04e5c2b3c4d5324d70c5660218839495_17254_512x512_fill_lanczos_center_3.png</url><title>Posts</title><link>https://ramongss.github.io/post/</link></image><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://ramongss.github.io/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://ramongss.github.io/post/getting-started/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
 &lt;ol>
 &lt;li>The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li>
 &lt;li>The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong>no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong> and having &lt;strong>flexibility to later add even deeper personalization with HTML and CSS&lt;/strong>&lt;/li>
@@ -107,7 +107,7 @@ data.head()
 &lt;p>Academic supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> chart format.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-194325867" class="chart">&lt;/div>
+&lt;div id="chart-391468275" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -116,7 +116,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-194325867', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-391468275', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
@@ -132,14 +132,14 @@ Plotly.plot('chart-194325867', chart.data, chart.layout, {responsive: true});
 {\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
 &lt;/code>&lt;/pre>
 &lt;p>renders as&lt;/p>
-&lt;p>$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left |\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right |^2}$$&lt;/p>
+&lt;p>$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left |\nabla F(\mathbf{x}&lt;em>{n}) - \nabla F(\mathbf{x}&lt;/em>{n-1}) \right |^2}$$&lt;/p>
 &lt;p>Example &lt;strong>inline math&lt;/strong> &lt;code>$\nabla F(\mathbf{x}_{n})$&lt;/code> renders as $\nabla F(\mathbf{x}_{n})$.&lt;/p>
 &lt;p>Example &lt;strong>multi-line math&lt;/strong> using the &lt;code>\\\\&lt;/code> math linebreak:&lt;/p>
 &lt;pre>&lt;code class="language-latex">$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp;amp; \text{if }k=1, \\\\
 1-p_{0}^{*} &amp;amp; \text{if }k=0.\end{cases}$$
 &lt;/code>&lt;/pre>
 &lt;p>renders as&lt;/p>
-&lt;p>$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp;amp; \text{if }k=1, \\&lt;br>
+&lt;p>$$f(k;p_{0}^{&lt;em>}) = \begin{cases}p_{0}^{&lt;/em>} &amp;amp; \text{if }k=1, \\
 1-p_{0}^{*} &amp;amp; \text{if }k=0.\end{cases}$$&lt;/p>
 &lt;h3 id="diagrams">Diagrams&lt;/h3>
 &lt;p>Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code>diagram&lt;/code> option in your &lt;code>config/_default/params.toml&lt;/code> file or by adding &lt;code>diagram: true&lt;/code> to your page front matter.&lt;/p>
