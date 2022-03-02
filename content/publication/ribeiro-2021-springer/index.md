@@ -1,6 +1,6 @@
 ---
 title: "Ensemble learning models coupled with urban mobility information applied to predict COVID-19 incidence cases"
-date: 2021-01-01
+date: 2021-11-02
 publishDate: 2021-11-02T16:59:33.591674Z
 authors: ["Matheus Henrique Dal Molin Ribeiro", "Ramon Gomes da Silva", "José Henrique Kleinübing Larcher", "Viviana Cocco Mariani", "Leandro Santos Coelho"]
 publication_types: ["6"]
