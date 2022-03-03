@@ -8,5 +8,6 @@ abstract: "Forecasts can help in the decision-making process. Epidemiological fo
 featured: false
 publication: "*International Joint Conference on Neural Networks (IJCNN)*"
 doi: "10.1109/ijcnn52387.2021.9533857"
+url_slides: '/slides/2021_IJCNN_JOSE.pdf'
 ---
 

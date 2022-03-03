@@ -8,5 +8,6 @@ abstract: "Water consumption forecasting is essential for the development of eff
 featured: false
 publication: "*International Joint Conference on Neural Networks (IJCNN)*"
 doi: "10.1109/ijcnn52387.2021.9534104"
+url_slides: '/slides/2021_IJCNN_MATHEUS.pdf'
 ---
 
