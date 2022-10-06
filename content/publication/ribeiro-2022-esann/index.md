@@ -8,5 +8,7 @@ abstract: "The wind energy forecast is an useful tool for wind farm production p
 featured: false
 publication: "*ESANN 2022 proceedings*"
 doi: "10.14428/esann/2022.es2022-117"
+url_poster: '/poster/2022_POSTER_ESANN.pdf'
+url_slides: '/slides/2022_ESANN.pdf'
 ---
 
