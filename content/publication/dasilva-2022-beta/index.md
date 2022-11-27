@@ -9,7 +9,7 @@ featured: false
 publication: "*Proceedings of the 2022 International Conference on Production Research Americas*"
 url_slides: '/slides/2022_ICPR_RAMON.pdf'
 links:
-    - name: Award
-        url: '/misc/2022_ICPR_AWARD.pdf'
+- name: Award
+  url: '/misc/2022_ICPR_AWARD.pdf'
 ---
 
