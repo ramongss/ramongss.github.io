@@ -27,7 +27,7 @@
 <meta property="twitter:image" content="https://ramongss.github.io/media/icon_hu04e5c2b3c4d5324d70c5660218839495_17254_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
 <title> | Ramon Gomes da Silva</title>
 </head>
-<body id=top data-spy=scroll data-offset=70 data-target=#TableOfContents class=page-wrapper data-wc-page-id=bb238c2d1697da0a6715e7e8c8299cef>
+<body id=top data-spy=scroll data-offset=70 data-target=#navbar-main class=page-wrapper data-wc-page-id=bb238c2d1697da0a6715e7e8c8299cef>
 <script src=/js/wowchemy-init.min.a8a181ea67095ef9fbb0e99ffbf585a0.js></script>
 <aside class=search-modal id=search>
 <div class=container>
@@ -68,7 +68,7 @@
 <a class=nav-link href=/#about><span>About me</span></a>
 </li>
 <li class=nav-item>
-<a class="nav-link active" href=/project><span>Projects</span></a>
+<a class="nav-link active" href=/project data-target=[]><span>Projects</span></a>
 </li>
 <li class=nav-item>
 <a class=nav-link href=/publication><span>Publications</span></a>
@@ -103,51 +103,65 @@
 </nav>
 </div>
 <div class=page-body>
-<article class=article>
-<div class="article-container pt-3">
-<h1></h1>
-<div class=article-metadata>
+<span class="js-widget-page d-none"></span>
+<section id=projects class="home-section wg-portfolio">
+<div class=home-section-bg></div>
+<div class=container>
+<div class=row>
+<div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+<h1 class=mb-0>Projects</h1>
+</div>
+<div class="col-12 col-lg-8">
+<div class="row js-layout-row project-showcase mt-5">
 </div>
 </div>
-<div class=article-container>
-<div class=article-style>
-</div>
-<div class=share-box aria-hidden=true>
-<ul class=share>
-<li>
-<a href="https://twitter.com/intent/tweet?url=https://ramongss.github.io/project/&text=" target=_blank rel=noopener class=share-btn-twitter>
-<i class="fab fa-twitter"></i>
-</a>
-</li>
-<li>
-<a href="https://www.facebook.com/sharer.php?u=https://ramongss.github.io/project/&t=" target=_blank rel=noopener class=share-btn-facebook>
-<i class="fab fa-facebook"></i>
-</a>
-</li>
-<li>
-<a href="mailto:?subject=&body=https://ramongss.github.io/project/" target=_blank rel=noopener class=share-btn-email>
-<i class="fas fa-envelope"></i>
-</a>
-</li>
-<li>
-<a href="https://www.linkedin.com/shareArticle?url=https://ramongss.github.io/project/&title=" target=_blank rel=noopener class=share-btn-linkedin>
-<i class="fab fa-linkedin-in"></i>
-</a>
-</li>
-<li>
-<a href="whatsapp://send?text=%20https://ramongss.github.io/project/" target=_blank rel=noopener class=share-btn-whatsapp>
-<i class="fab fa-whatsapp"></i>
-</a>
-</li>
-<li>
-<a href="https://service.weibo.com/share/share.php?url=https://ramongss.github.io/project/&title=" target=_blank rel=noopener class=share-btn-weibo>
-<i class="fab fa-weibo"></i>
-</a>
-</li>
-</ul>
 </div>
 </div>
-</article>
+</section>
+<section id=covidbrasilbot class="home-section wg-blank">
+<div class=home-section-bg></div>
+<div class=container>
+<div class=row>
+<div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+<h1 class=mb-0>covibrasilbot</h1>
+</div>
+<div class="col-12 col-lg-8">
+<p>The Twitter bot <a href=https://www.twitter.com/covidbrasilbot target=_blank rel=noopener>@covidbrasilbot</a> posts daily reports about the number of confirmed cases and deaths caused by COVID-19 in Brazil using <a href=https://docs.ropensci.org/rtweet/ target=_blank rel=noopener>{rtweet}</a> and <a href=https://docs.github.com/en/actions target=_blank rel=noopener>GitHub Actions</a>.</p>
+<p>In the <a href=https://github.com/ramongss/covidbrasilbot/ target=_blank rel=noopener>Github Repo</a> contains a <a href=https://github.com/features/actions target=_blank rel=noopener>GitHub Action</a> that runs on schedule (every day at 00:30 UTC). It executes the R code that retrieves the COVID-19 data from <a href=https://twitter.com/brasil_io target=_blank rel=noopener>@brasil_io</a>, summarizes the information, generates the graphs with the confirmed cases and deaths info, and creates a &ldquo;micro-report&rdquo; to be posted. The report and the graphs are posted to <a href=https://www.twitter.com/covidbrasilbot target=_blank rel=noopener>@covidbrasilbot</a> on Twitter using <a href=https://docs.ropensci.org/rtweet/ target=_blank rel=noopener>{rtweet}</a> package.</p>
+<p>The <a href=https://www.twitter.com/covidbrasilbot target=_blank rel=noopener>@covidbrasilbot</a> was inspired by my other <a href=https://ramongss.github.io/project/covid19-autoreport/ target=_blank rel=noopener>COVID-19 AutoReport Project</a> and the <a href=https://twitter.com/londonmapbot target=_blank rel=noopener>@londonmapbot</a> created by <a href=https://twitter.com/mattdray target=_blank rel=noopener>@mattdray</a>.</p>
+</div>
+</div>
+</div>
+</section>
+<section id=qualiscapes class="home-section wg-blank">
+<div class=home-section-bg></div>
+<div class=container>
+<div class=row>
+<div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+<h1 class=mb-0>2019 Qualis Capes Shiny app</h1>
+</div>
+<div class="col-12 col-lg-8">
+<p>This Shiny application was made with the objective to help researches, professors, graduate, and undergraduate students from Brazil to check the preliminary 2019 Qualis CAPES list in an online platform that can be consulted any time any where.</p>
+<p>The platform was built in Portuguese language and presents options to filter by ISSN and Title of the Periodics, and the Qualis CAPES (from A1 to NP). The table shows the Periodics that match with the filters set. To build this application, I need to create an R package called <a href=https://github.com/ramongss/qualiscapes target=_blank rel=noopener>{qualiscapes}</a>, which retrieves the preliminary 2019 Qualis CAPES and organize in a dataframe. Also, I used RStudio and Shiny app to write down the codes, build, deploy, and publish the platform.</p>
+<p>The 2019 Qualis Capes Shiny App can be found <a href=https://ramongss.shinyapps.io/qualiscapes/ target=_blank rel=noopener>here</a>.</p>
+</div>
+</div>
+</div>
+</section>
+<section id=covid19-autoreport class="home-section wg-blank">
+<div class=home-section-bg></div>
+<div class=container>
+<div class=row>
+<div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+<h1 class=mb-0>COVID-19 Automatic Reports from Brazil</h1>
+</div>
+<div class="col-12 col-lg-8">
+<p>This <a href=https://github.com/ramongss/COVID19-AutoReports target=_blank rel=noopener>Github repo</a> is intended to create and daily update COVID-19 reports with confirmed cases and deaths from Brazil.</p>
+<p>The dataset is provided by <a href=https://brasil.io target=_blank rel=noopener>Brasil.IO</a> which retrieves the daily information about COVID-19 cases from all 27 Brazilian State Health Offices, assembles and makes them publicly available. The data is daily updated and reported on the <a href=https://twitter.com/brasil_io target=_blank rel=noopener>Twitter account</a> and website.</p>
+</div>
+</div>
+</div>
+</section>
 </div>
 <div class=page-footer>
 <div class=container>
