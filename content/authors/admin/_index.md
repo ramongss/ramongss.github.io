@@ -18,7 +18,7 @@ education:
 
 email: ""
 
-highlight_name: false
+highlight_name: true
 
 interests:
   - Data science
