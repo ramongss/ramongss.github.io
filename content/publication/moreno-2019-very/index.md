@@ -18,11 +18,11 @@ publication: "*14th Brazilian Computational Intelligence Meeting*"
 tags:
   [
     "Wind energy",
-    "forecasting",
-    "time series",
-    "machine learning",
-    "stacking ensemble",
+    "Forecasting",
+    "Time series",
+    "Machine learning",
+    "Stacking ensemble"
   ]
 url_slides: "/slides/2019_CBIC_Wind.pdf"
-doi: "http://dx.doi.org/10.21528/CBIC2019-22"
+doi: "10.21528/CBIC2019-22"
 ---

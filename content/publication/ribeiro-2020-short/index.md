@@ -20,7 +20,7 @@ tags:
     "Forecasting",
     "Decision-making",
     "Machine learning",
-    "Time-series",
+    "Time series",
   ]
-doi: "https://doi.org/10.1016/j.chaos.2020.109853"
+doi: "10.1016/j.chaos.2020.109853"
 ---

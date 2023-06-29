@@ -17,11 +17,11 @@ publication: "*14th Brazilian Computational Intelligence Meeting*"
 tags:
   [
     "Decomposition",
-    "ensemble",
-    "time series",
-    "meningitis",
-    "multi-objective optimization",
+    "Ensemble",
+    "Time series",
+    "Meningitis",
+    "Multi-objective optimization",
   ]
 url_slides: "/slides/2019_CBIC_Meningitis.pdf"
-doi: "http://dx.doi.org/10.21528/CBIC2019-18"
+doi: "10.21528/CBIC2019-18"
 ---
