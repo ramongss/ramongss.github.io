@@ -31,5 +31,5 @@ tags:
 featured: false
 publication: "*Proceedings of the 11th International Conference on Production Research – Americas*"
 url_slides: "/slides/2022_ICPR_FERNANDA.pdf"
-doi: "10.1007/978-3-031-36121-0_34"
+doi: "10.1007/978-3-031-36121-0_32"
 ---
