@@ -32,7 +32,7 @@ organizations:
   - name: Pontifical Catholic University of Parana
     url: https://pucpr.br
 
-role: PhD in Computational Intelligence and Data Scientist
+role: Data Scientist and PhD in Computational Intelligence
 
 social:
   - icon: twitter
@@ -69,4 +69,4 @@ I am _Ramon G. da Silva_, PhD in Computational Intelligence by the [Industrial a
 
 I've been researching on applications of machine learning and artificial intelligence approaches to time series forecasting :chart_with_upwards_trend:. Some applications of forecasting in diverse datasets, such as: [Wind energy of a turbine in a wind farm in Brazil](https://www.sciencedirect.com/science/article/pii/S0142061522005051); [COVID-19 cases in Brazil and USA context coupled with meteorological variables](https://www.sciencedirect.com/science/article/abs/pii/S0960077920304252); and [Cryptocurrecy (Bitcoin) price over time](https://ieeexplore.ieee.org/document/9207152).
 
-I am a [#rstats](https://www.r-project.org/) user, currently learning more about Python :snake:. I'm also an amateur guitarist :guitar: who recorded some rock singles on [Spotify](https://open.spotify.com/artist/5H5Ht9iimWk5MVXMQV3Ta9?si=yriOrXVKScSGYsjDfVdEUw) (check it out). You can find me on [Twitter](https://twitter.com/ramongss) :envelope: (or any other social account) and perhaps we can curse the latest Star Wars trilogy together :sweat_smile: (still sad about that).
+I am a [#rstats](https://www.r-project.org/) and [Python](https://www.python.org/) programmer. I'm also an amateur guitarist :guitar: who recorded some rock singles on [Spotify](https://open.spotify.com/artist/5H5Ht9iimWk5MVXMQV3Ta9?si=yriOrXVKScSGYsjDfVdEUw) (check it out). You can find me on [Twitter](https://twitter.com/ramongss) :envelope: (or any other social account) and perhaps we can curse the latest Star Wars trilogy together :sweat_smile: (still sad about that).
