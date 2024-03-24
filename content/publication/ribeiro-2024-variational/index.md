@@ -1,7 +1,7 @@
 ---
 title: "Variational mode decomposition and bagging extreme learning machine with multi-objective optimization for wind power forecasting"
-date: 2024-04-24
-publishDate: 2024-03-23T18:40:00.0000Z
+date: 2024-02-24
+publishDate: 2024-02-24T18:40:00.0000Z
 authors:
   [
     "Matheus Henrique Dal Molin Ribeiro",
