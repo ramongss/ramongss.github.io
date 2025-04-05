@@ -19,6 +19,8 @@ main:
   # - name: Contact
   #   url: '#contact'
   #   weight: 50
-  - name: Curriculum Lattes
+  - name: Lattes
     url: "http://lattes.cnpq.br/5215999364926772"
     weight: 60
+  - name: CV
+    url: "https://ramongss.github.io/curriculum/"
