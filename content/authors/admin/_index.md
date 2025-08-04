@@ -32,7 +32,7 @@ organizations:
   - name: Pontifical Catholic University of Parana
     url: https://pucpr.br
 
-role: Data Scientist and PhD in Computational Intelligence
+role: Research Professor and Data Scientist
 
 social:
   - icon: linkedin
@@ -62,7 +62,7 @@ title: Ramon Gomes da Silva
 
 # `> Hello, World!` :wave:
 
-I am **Ramon G. da Silva**, Ph.D. in Computational Intelligence from the [Industrial and Systems Engineering Graduate Program at PUCPR](https://www.pucpr.br/escola-politecnica/industrial-and-systems/) :mortar_board: and currently working as a Data Scientist at [Banco Bradesco](https://banco.bradesco).
+I am **Ramon G. da Silva**, Ph.D. in Artificial Intelligence and Data Science :mortar_board: and currently working as Research Professor at [Industrial and Systems Engineering Graduate Program (PPGEPS) at PUCPR](https://www.pucpr.br/escola-politecnica/industrial-and-systems/).
 
 My research focuses on leveraging machine learning and AI techniques for time series forecasting :chart_with_upwards_trend:. I've applied these methods across diverse domains -- including [wind energy production in Brazilian wind farms](https://www.sciencedirect.com/science/article/pii/S0142061522005051), [COVID-19 cases predictions in Brazil and U.S. (with meteorological data)](https://www.sciencedirect.com/science/article/abs/pii/S0960077920304252), and [cryptocurrecy (Bitcoin) price trends](https://ieeexplore.ieee.org/document/9207152).
 
