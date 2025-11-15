@@ -10,7 +10,7 @@ authors:
 - Viviana Cocco Mariani
 
 date: "2025-06-30"
-doi: ""
+doi: "10.1109/IJCNN64981.2025.11227717"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2021-08-24T00:00:00Z"
@@ -22,7 +22,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Joint Conference on Neural Networks (IJCNN)*"
+publication: "*2025 International Joint Conference on Neural Networks (IJCNN)*"
 publication_short: ""
 
 abstract: This study proposes hybrid machine learning (ML) models to predict the daily urban water consumption scenario in a neighborhood Brazilian city. The framework evaluates various signal decomposition modes, including empirical wavelet transform (EWT), complete ensemble empirical mode decomposition with adaptive noise (CEEMDAN), seasonal-trend decomposition (STL) using LOESS Locally Estimated Scatterplot Smoothing with locally estimated scatterplot smoothing, and variational mode decomposition (VMD), to prepare the dataset. The decomposed data are combined with different ML models such as Bayesian regularized neural networks (BRNN), extreme learning machines (ELM), k-nearest neighbor (KNN), multilayer perceptron neural network (MLP), support vector regression with linear kernel function (SVRL), and support vector regression with radial basis function kernel (SVRR) for daily short- and long-term forecasting. The CEEMDAN-SVRL and VMD-SVRL hybrid models are found to have the best results in terms of statistical metrics and performance criteria, significantly improving the prediction accuracy and the stability of the results. The study demonstrates the potential of ML frameworks to improve water resource planning and management by accurately predicting water consumption scenarios. Some results obtained suggested that the VMD-SVRL model performed better in most scenarios.
