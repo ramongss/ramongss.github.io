@@ -41,19 +41,20 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/ramongss
-  - icon: graduation-cap
+  # - icon: graduation-cap
+  - icon: google-scholar
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=en-US&user=s00ZdLQAAAAJ
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0001-8580-7695
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Ramon-Gomes-Da-Silva
 # - icon: envelope
 #   icon_pack: fas
 #   # link: /#contact
 #   link: mailto:ramongs1406@gmail.com
-# - icon: researchgate
-#   icon_pack: fab
-#   link: https://www.researchgate.net/profile/Ramon_Gomes_Da_Silva
 
 superuser: true
 
