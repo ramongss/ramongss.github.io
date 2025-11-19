@@ -163,3 +163,6 @@ cms:
 icon:
   pack:
     ai: true
+extensions:
+  academicons:
+    enable: true
