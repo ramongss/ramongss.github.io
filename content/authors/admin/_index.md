@@ -43,7 +43,7 @@ social:
     link: https://github.com/ramongss
   # - icon: graduation-cap
   - icon: google-scholar
-    icon_pack: fas
+    icon_pack: fab
     link: https://scholar.google.com/citations?hl=en-US&user=s00ZdLQAAAAJ
   - icon: orcid
     icon_pack: fab
