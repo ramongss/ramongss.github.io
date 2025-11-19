@@ -35,7 +35,7 @@ tags:
 - Optimization
 - Renewable energy
 
-featured: true
+featured: false
 
 # - name: ""
 #   url: ""

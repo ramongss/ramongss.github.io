@@ -33,7 +33,7 @@ tags:
 - Singular spectrum analysis
 - Variational mode decomposition
 
-featured: true
+featured: false
 
 # - name: ""
 #   url: ""
