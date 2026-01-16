@@ -6,7 +6,7 @@ authors:
 - Gilson Adamczuk Oliveira
 - Matheus Henrique Dal Molin Ribeiro
 
-date: 2026-03-01
+date: 2026-01-12
 doi: "10.1016/j.asoc.2026.114606"
 
 # Schedule page publish date (NOT publication's date).
