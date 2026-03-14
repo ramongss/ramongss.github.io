@@ -1,0 +1,55 @@
+---
+title: "Proposal of an empirical theory for capacity estimation using Lot Streaming techniques"
+
+author:
+- "**Ramon Gomes da Silva**"
+
+date: "2019-02-15"
+
+Type: Master Thesis
+
+publication: "*Pontifical Catholic University of Parana*"
+
+abstract: "Production Planning and Scheduling are important phases of the productive process in a manufacturing system. To ensure that the production planning and scheduling of a production system be satisfactory it is necessary the forecast of the capacity as accurate as possible. To ensure this accuracy, it is necessary the utilization of rules of forecast such as the Lot Streaming, which is a technique that divides a production lot into smaller sublots to consecutive operations be processed in overlapping, i.e., it can be processed in parallel. In general problems, i.e., with production systems with m machines and n sublots, the problem becomes extremely complex. Unbalanced production systems are generally less efficient than balanced systems. Working with unbalanced and complex systems, besides being expensive, require a specific technical knowledge and a domain of the lot streaming techniques, once there is no general rule to m machine problems and n sublots. This research worked on propose an empirical theory that estimates capacity using the lot streaming techniques, and that was also a simplest and cheaper alternative to more general and complex problems. Numerous numerical experiments conducted in the early phase of this study suggested that unbalanced systems could be represented using equivalent systems in a certain sense, with an error that could be estimated a priori. So, we planned and executed a numerical experiment to test the following hypothesis: Can the manufacturing systems makespan with m machines and n lots with distinct times pi of processing in each machine i be estimated properly using a mean time p for each machine? To answer this question a statistical planning was planned and executed as follows. The experiments were divided in 9 groups. By using R Language, it was generated scenarios for each group. The groups are composed of systems with: 5 machines and variation on process times of 20%; 5 machines and variation of 50%; 5 machines and variation of 70%; 10 machines and variation of 20%; 10 machines and variation of 50%; 10 machines and variation of 70%; 15 machines and variation of 20%; 15 machines and variation of 50%; and, 15 machines and variation of 70%; For each group, 100 scenarios with random process times were generated. For each random scenario it was generated an equivalent balanced scenario. Comparing the results of the completeness times of each scenario, it was possible to observe that more balanced systems have a difference of less than 8%. The research concluded that the alternative offers results even if not optimal, for an extremely low com putational cost. And, therefore, one can construct an empirical theory of practical nature that replaces the difficult task of solving problems of makespan with m machines and n lots with times pi of processing of each machine. In conclusion the work presented suggests an empirical theory for the general problem of makespan with m machines and n sublots with..."
+
+categories:
+- Capacity
+- Lot Streaming
+- Production Planning
+- Scheduling
+- Simulation
+
+toc: false
+
+about:
+  id: heading
+  template: solana
+  image-width: 10em
+  links:
+    - text: PDF
+      href: https://pergamum-biblioteca.pucpr.br/acervo/349172
+      target: _blank
+---
+
+## Thesis: Pontifical Catholic University of Parana
+
+::: {#heading}
+:::
+
+::: {.callout-note title="How to cite this work"}
+
+Da Silva, Ramon Gomes. 2019. “Proposal of an empirical theory for capacity estimation using Lot Streaming techniques.” Master Thesis, Pontifical Catholic University of Parana. https://pergamum-biblioteca.pucpr.br/acervo/349172.
+
+```bibtex
+@mastersthesis{dasilva2019proposal,
+  title = {Proposal of an empirical theory for capacity estimation using Lot Streaming techniques},
+  author = {da Silva, Ramon Gomes},
+  year = 2019,
+  month = feb,
+  address = {Curitiba, Brazil},
+  langid = {portuguese},
+  school = {Pontifical Catholic University of Parana}
+}
+```
+
+:::

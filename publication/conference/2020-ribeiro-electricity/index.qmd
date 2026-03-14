@@ -1,0 +1,67 @@
+---
+title: "Electricity energy price forecasting based on hybrid multi-stage heterogeneous ensemble: Brazilian commercial and residential cases"
+
+author:
+- Matheus Henrique Dal Molin Ribeiro
+- "**Ramon Gomes da Silva**"
+- Cristiane Canton
+- Naylene Fraccanabbia
+- Viviana Cocco Mariani
+- Leandro Santos Coelho
+
+date: "2020-07-19"
+
+publication: "*2020 International Joint Conference on Neural Networks (IJCNN)*"
+
+abstract: "The development of accurate models to forecast electricity energy prices is a challenge due to the number of factors which can affect this commodity. In this paper, a hybrid multi-stage approach is proposed to forecast multi-stepahead (one, two and three-month-ahead) Brazilian commercial and residential electricity energy prices. The proposed data analysis combines the pre-processing named complementary ensemble empirical mode decomposition (CEEMD) in the first stage coupled with the coyote optimization algorithm (COA) to define the CEEMD’s hyperparameters, aiming to deal with time series non-linearities and enhance the model’s performance. On the next stage, four machine learning models named extreme learning machine, Gaussian process, gradient boosting machine, and relevance vector machine are employed to train and predict the CEEMD’s components. Finally, in the final stage, the results of the previous step are directly integrated to compose a heterogeneous ensemble learning of components to obtain the final forecasts. In this case, a grid of models is obtained. The best model is one that has better generalization out-of-sample. Through developed comparisons, results showed that combining COA-CEEMD with a heterogeneous ensemble learning can develop accurate forecasts. The modeling developed in this paper is promising and can support decision making in electricity energy price forecasting."
+
+categories:
+- Decomposition
+- Electricity prices
+- Ensemble learning
+- Forecasting
+- Optimization
+
+toc: false
+
+about:
+  id: heading
+  template: solana
+  image-shape: rectangle
+  image-width: 10em
+  links:
+    - text: DOI
+      href: https://doi.org/10.1109/IJCNN48605.2020.9206691
+      target: _blank
+    - text: Slides
+      href: "static/slides/2020_WCCI_MATHEUS.pdf"
+      target: _blank
+---
+
+## Conference: 2020 International Joint Conference on Neural Networks (IJCNN)
+
+::: {#heading}
+:::
+
+::: {.callout-note title="How to cite this work"}
+
+
+Ribeiro, Matheus Henrique Dal Molin, Ramon Gomes da Silva, Cristiane Canton, Naylene Fraccanabbia, Viviana Cocco Mariani, and Leandro Santos Coelho. 2020. “Electricity Energy Price Forecasting Based on Hybrid Multi-Stage Heterogeneous Ensemble: Brazilian Commercial and Residential Cases.” International Joint Conference on Neural Networks (IJCNN) (Glasgow, United Kingdom), July, 1–8. https://doi.org/10.1109/ijcnn48605.2020.9206691.
+
+
+```bibtex
+
+@inproceedings{ribeiro2020electricity,
+ address = {Glasgow, Scotland},
+ author = {Ribeiro, Matheus Henrique Dal Molin and da Silva, Ramon Gomes and Canton, Cristiane and Fraccanabbia, Naylene and Mariani, Viviana Cocco and Coelho, Leandro Santos},
+ booktitle = {International Joint Conference on Neural Networks (IJCNN)},
+ doi = {10.1109/IJCNN48605.2020.9206691},
+ month = {July},
+ pages = {1--8},
+ title = {Electricity energy price forecasting based on hybrid multi-stage heterogeneous ensemble: Brazilian commercial and residential cases},
+ year = {2020}
+}
+
+```
+
+:::

@@ -1,0 +1,54 @@
+---
+title: "Signal decomposition and stacking-ensemble learning approaches applied to time series forecasting"
+
+author:
+- "**Ramon Gomes da Silva**"
+
+date: "2023-06-01"
+
+Type: PhD Thesis
+
+publication: "*Pontifical Catholic University of Parana*"
+
+abstract: "Time series forecasting is an essential approach for businesses and researchers to make informed decisions by predicting future trends and patterns in a given time series data. Nevertheless, forecasting time series accurately can be challenging due to data complexity once it may be present high fluctuations and nonlinear and non-stationary behavior. Machine learning models are proposed for time series forecasting to overcome this drawback once they can capture the complex and nonlinear relationships in time series data. In particular, stacking-ensemble learning and signal decomposition methods are promising approaches to performing accurate predictions. This thesis aims to evaluate the effectiveness of employing signal decomposition methods coupled with a stacking-ensemble learning approach for forecasting time series in real-world applications. For this, three applications are presented in this thesis. The first case uses signal decomposition to forecast COVID-19 cumulative cases in five states of Brazil and five states of the United States. The second case employs a stacking-ensemble learning approach to forecast wind energy generation of a turbine in a wind farm in Northeast Brazil. The third case extends the discussion by using a multi-stage signal decomposition strategy and stacking-ensemble learning approach to forecast wind speed. The forecasting performance of the experiments was evaluated using different performance criteria, such as mean absolute error, mean absolute percentage error, root mean squared error, relative root mean squared error, and the sum of squared error performance criteria. Diebold-Mariano hypothesis test was performed to determine the significance of the error difference in the analyzed forecasts. By analyzing the results of the experimentations, it was possible to identify that the proposed multi-stage decomposition strategy coupled with the stacking-ensemble learning approach could reach lower forecasting errors outperforming single decomposed, non-decomposed, ensemble, and single models. The proposed forecasting framework achieved errors lower than 3% in some scenarios. Compared to the other approaches, the proposed one presented a mean improvement performance ranging between 4.39% and 63.67%. Hence, considering all findings in this thesis and the exhaustive experiments, the hypothesis that the proposed approach improves the accuracy of the time series forecasting models is supported and should not be rejected."
+
+categories:
+- Time series forecasting
+- Machine learning
+- Signal decomposition
+- Stacking-ensemble learning
+
+toc: false
+
+about:
+  id: heading
+  template: solana
+  image-width: 10em
+  links:
+    - text: "PDF"
+      href: "https://pergamum-biblioteca.pucpr.br/acervo/365235"
+      target: _blank
+---
+
+## Thesis: Pontifical Catholic University of Parana
+
+::: {#heading}
+:::
+
+::: {.callout-note title="How to cite this work"}
+
+Da Silva, Ramon Gomes. 2023. “Signal Decomposition and Stacking-Ensemble Learning Approaches Applied to Time Series Forecasting.” PhD, Pontifical Catholic University of Parana. https://pergamum-biblioteca.pucpr.br/acervo/365235.
+
+```bibtex
+@phdthesis{dasilva_signal_2023,
+  author = {Ramon Gomes da Silva},
+  title = {Signal decomposition and stacking-ensemble learning approaches applied to time series forecasting},
+  school = {Pontifical Catholic University of Parana},
+  address = {Curitiba, Brazil},
+  year = {2023},
+  type = {PhD Thesis},
+  url = {https://pergamum-biblioteca.pucpr.br/acervo/365235},
+}
+```
+
+:::

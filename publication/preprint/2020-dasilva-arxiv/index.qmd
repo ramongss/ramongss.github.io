@@ -1,0 +1,55 @@
+---
+title: "Short-term forecasting of Amazon rainforest fires based on ensemble decomposition model"
+
+author:
+- "**Ramon Gomes da Silva**"
+- Matheus Henrique Dal Molin Ribeiro
+- Viviana Cocco Mariani
+- Leandro dos Santos Coelho
+
+date: "2020-07-23"
+
+publication: "_arXiv_"
+
+abstract: "Accurate forecasting is important for decision-makers. Recently, the Amazon rainforest is reaching record levels of the number of fires, a situation that concerns both climate and public health problems. Obtaining the desired forecasting accuracy becomes difficult and challenging. In this paper were developed a novel heterogeneous decomposition-ensemble model by using Seasonal and Trend decomposition based on Loess in combination with algorithms for short-term load forecasting multi-month-ahead, to explore temporal patterns of Amazon rainforest fires in Brazil. The results demonstrate the proposed decomposition-ensemble models can provide more accurate forecasting evaluated by performance measures. Diebold-Mariano statistical test showed the proposed models are better than other compared models, but it is statistically equal to one of them."
+
+categories:
+- Time series forecasting
+- Machine learning
+- Signal decomposition
+- Amazon rainforest
+
+toc: false
+
+about:
+  id: heading
+  template: solana
+  image-width: 10em
+  links:
+    - text: DOI
+      href: https://doi.org/10.48550/arXiv.2007.07979
+
+---
+
+## Preprint: arXiv
+
+::: {#heading}
+:::
+
+::: {.callout-note title="How to cite this work"}
+
+Silva, Ramon Gomes da, Matheus Henrique Dal Molin Ribeiro, Viviana Cocco Mariani, and Leandro dos Santos Coelho. 2020. “Short-Term Forecasting of Amazon Rainforest Fires Based on Ensemble Decomposition Model.” Version 2. Preprint, arXiv. https://doi.org/10.48550/ARXIV.2007.07979.
+
+```bibtex
+@article{dasilva2020arxiv,
+  author       = {da Silva, Ramon Gomes and Ribeiro, Matheus Henrique Dal Molin and Mariani, Viviana Cocco and Coelho, Leandro dos Santos},
+  title        = {Short‑term forecasting of Amazon rainforest fires based on ensemble decomposition model},
+  journal      = {arXiv preprint arXiv:2007.07979},
+  year         = {2020},
+  doi          = {10.48550/arXiv.2007.07979},
+  url          = {https://arxiv.org/abs/2007.07979},
+  note         = {Version 2, submitted Jul 23, 2020},
+}
+```
+
+:::

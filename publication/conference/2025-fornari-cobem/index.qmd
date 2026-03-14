@@ -1,0 +1,60 @@
+---
+title: "Hybrid machine learning approach for predicting feed convertion ratio in broilers: integrating time-series analysis and environmental variables"
+
+author:
+- Cristiano Fornari
+- Helon Vicente Hultmann Ayala
+- "**Ramon Gomes da Silva**"
+
+date: "2025-11-09"
+
+publication: "*Proceedings of the 28th International Congress of Mechanical Engineering*"
+
+abstract: "This study presents a predictive framework for estimating the feed conversion ratio (FCR) in broilers reared in southern Brazil, using machine learning regression techniques. The primary goal is to improve the accuracy of FCR predictions, thereby enabling more informed management decisions and fairer financial compensation for producers, ultimately enhancing efficiency in poultry production. FCR is a critical metric in broiler farming, directly influencing both profitability and sustainability. In Brazil, where poultry farming is a central component of agribusiness, precise forecasting of FCR is essential to optimize feed use and minimize waste. To address this challenge, we propose a pipeline integrating data imputation, feature scaling, Principal Component Analysis (PCA), and three regression algorithms: Support Vector Regression (RBF kernel), K-Nearest Neighbors Regressor, and Decision Tree Regressor. These models capture nonlinear relationships and complex interactions inherent in zootechnical and environmental data. The methodology employs K-fold cross-validation and evaluates performance through MAE, RMSE, and R2. Results show that with SVR-RBF achieving the best balance between error reduction and explained variance. This confirms the potential of data-driven pipelines to support earlier and fairer decision-making in the poultry industry, while relying only on inputs available prior to slaughter."
+
+categories:
+- Feed Conversion Ratio
+- Broilers
+- Machine Learning
+- Predictive Modeling
+- Poultry Production
+
+toc: false
+
+about:
+  id: heading
+  template: solana
+  image-shape: rectangle
+  image-width: 10em
+  links:
+    - text: DOI
+      href: https://doi.org/10.26678/ABCM.COBEM2025.COB2025-2556
+      target: _blank
+    - text: Poster
+      href: "static/poster/2025_POSTER_COBEM.pdf"
+      target: _blank
+---
+
+## Conference: Proceedings of the 28th International Congress of Mechanical Engineering
+
+::: {#heading}
+:::
+
+::: {.callout-note title="How to cite this work"}
+
+Fornari, Cristiano, Helon Vicente Hultmann Ayala, and Ramon Gomes Da Silva. 2025. “Hybrid Machine Learning Approach for Predicting Feed Conversion Ratio in Broilers: Integrating Time-Series Analysis and Environmental Variables.” Paper presented at 28th International Congress of Mechanical Engineering. Proceedings of the 28th International Congress of Mechanical Engineering. https://doi.org/10.26678/ABCM.COBEM2025.COB2025-2556.
+
+```bibtex
+@inproceedings{fornari2025hybrid,
+  title = {Hybrid Machine Learning Approach for Predicting Feed Conversion Ratio in Broilers: Integrating Time-Series Analysis and Environmental Variables},
+  shorttitle = {Hybrid Machine Learning Approach for Predicting Feed Conversion Ratio in Broilers},
+  booktitle = {Proceedings of the 28th International Congress of Mechanical Engineering},
+  author = {Fornari, Cristiano and Hultmann Ayala, Helon Vicente and Da Silva, Ramon Gomes},
+  year = 2025,
+  publisher = {ABCM},
+  doi = {10.26678/ABCM.COBEM2025.COB2025-2556},
+  urldate = {2026-02-01}
+}
+```
+
+:::

@@ -1,0 +1,104 @@
+---
+title: "Publications"
+pagetitle: Publications
+date-format: "MMM YYYY"
+page-layout: full
+categories: false
+toc: true
+listing:
+  - id: featured
+    contents: "featured/*/*.qmd"
+    type: default
+    sort:
+      - "date desc"
+      - "title"
+    fields: [date, author, title, publication, categories, image]
+
+  - id: journal
+    contents: "journal/*/*.qmd"
+    type: default
+    sort:
+      - "date desc"
+      - "title"
+    fields: [date, author, title, publication, categories, image]
+
+  - id: book-chapter
+    contents: "book-chapter/*/*.qmd"
+    type: default
+    sort:
+      - "date desc"
+      - "title"
+    fields: [date, author, title, publication, categories, image]
+
+  - id: conference
+    contents: "conference/*/*.qmd"
+    type: default
+    filter-ui: true
+    sort-ui: true
+    date-format: "MMM YYYY"
+    sort:
+      - "date desc"
+      - "title"
+    fields: [date, author, title, publication, categories]
+
+  - id: magazine
+    contents: "magazine/*/*.qmd"
+    filter-ui: false
+    sort-ui: false
+    type: default
+    date-format: "MMM YYYY"
+    sort:
+      - "date desc"
+      - "title"
+    fields: [date, author, title, publication, categories, image]
+
+  - id: preprint
+    contents: "preprint/*/*.qmd"
+    filter-ui: false
+    sort-ui: false
+    type: default
+    date-format: "YYYY"
+    sort:
+      - "date desc"
+      - "title"
+    fields: [date, author, publication, title, categories]
+
+  - id: thesis
+    contents: "thesis/*/*.qmd"
+    type: default
+    date-format: "YYYY"
+    sort: "date desc"
+    fields: [date, Type, title, categories]
+
+---
+
+
+## Featured papers
+
+:::{#featured}
+:::
+
+## Journal papers
+:::{#journal}
+:::
+
+## Scientific Magazine
+:::{#magazine}
+:::
+
+## Book chapters
+:::{#book-chapter}
+:::
+
+## Conference papers
+:::{#conference}
+:::
+
+## Preprint
+:::{#preprint}
+:::
+
+## Thesis
+:::{#thesis}
+:::
+

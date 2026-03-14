@@ -1,0 +1,53 @@
+---
+title: "Proposal of a process flow based on the concepts of Process Mapping and Demand Forecasting of a Road Works Department"
+
+author:
+- Odemar Novaes Coutinho Neto
+- "**Ramon Gomes da Silva**"
+
+date: "2016-12-10"
+
+Type: BSc Thesis
+
+publication: "*University of Para State*"
+
+abstract: "This paper aimed to propose solutions to the necessity of the Roadworks Departmentof the city of Belém to develop its processes in a learner way, through the knowledgeof Business Process Management and Demand Forecasting. The study presented anoverview of the road situation in the city of Belém, thus justifying the need to apply it,where it was firstly sought to define the concepts of the techniques and knowledge tobe used, as well as their methods. As theoretical framework, it explored PublicAdministration, Planning and Production Control – focusing on Demand Forecasting– Business Process Management and Production Management. In addition, theresearchers presented the flowchart of current processes, data of demand ofrequests and attendance of the Department, and the calculations of the Pearsoncorrelation coefficient of these. Furthermore, the proposed flowchart, the demandand attendance forecasts, as well as a final analysis of the comparison between theeffectiveness of each flowchart were presented. Also, the main results were adecrease in the segment of Infrastructure Works without Project in 22% of the totalactivities and 29% of the total time, where only in Waiting Activities was reduced 47%of the total time. Finally, it was concluded about the potential of the Departmentunder study has to offer its services in a faster way, and also to increase theattendance rate, where currently 34% of requests are not achieved. Also, it wasnoted that one of the main barriers to attendance occurred due to bureaucraticissues, such as waiting for signatures and approvals."
+
+categories:
+- Public administration
+- Flowchart process
+- Demand forecasting
+- Process Mapping
+- Roadworks
+
+toc: false
+
+about:
+  id: heading
+  template: solana
+  image-width: 10em
+---
+
+## Thesis: Pontifical Catholic University of Parana
+
+::: {#heading}
+:::
+
+::: {.callout-note title="How to cite this work"}
+
+Coutinho Neto, Odemar Novaes, and Ramon Gomes da Silva. 2016. “Proposição de um fluxo de processos com base nos conceitos de Mapeamento de Processos e de Previsão de Demanda de um Departamento de Obras Viárias.” BSc Thesis, University of Para State.
+
+```bibtex
+@phdthesis{coutinhoneto2016proposicao,
+  type = {BSc Thesis},
+  title = {Proposal of a process flow based on the concepts of Process Mapping and Demand Forecasting of a Road Works Department},
+  author = {Coutinho Neto, Odemar Novaes and {da Silva}, Ramon Gomes},
+  year = 2016,
+  month = dec,
+  address = {Bel\'em, Brazil},
+  langid = {portuguese},
+  school = {University of Para State}
+}
+```
+
+:::

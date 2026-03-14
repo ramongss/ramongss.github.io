@@ -1,0 +1,62 @@
+---
+title: "Variational mode decomposition and bagging extreme learning machine with multi-objective optimization for wind power forecasting"
+
+author:
+- Matheus Henrique Dal Molin Ribeiro
+- "**Ramon Gomes da Silva**"
+- Sinvaldo Rodrigues Moreno
+- Cristiane Canton
+- José Henrique Kleinubing Larcher
+- Stefano Frizzo Stefenon
+- Viviana Cocco Mariani
+- Leandro dos Santos Coelho
+
+date: "2024-02-24"
+
+publication: "*Applied Intelligence*"
+
+abstract: "A wind power forecast is an useful support tool for planning and operating wind farm production, facilitating decisions regarding maintenance and load share. This paper presents an evaluation of a cooperative method, which uses a time series pre-processing strategy, artificial neural networks, and multi-objective optimization to forecast wind power generation. The proposed approach also evaluates the accuracy of the hybridization of variational mode decomposition (VMD) with bootstrap aggregation and extreme learning machine model for forecasting very short and short-term wind power generation. Multi-objective strategy aggregates the VMD-based components and obtains the final forecasting. The results imply that the presented algorithm has better forecasting performance compared to bootstrap stacking, other machine learning approaches, and statistical models, with a reduction of root mean squared error of approximately 12.76%, 25.25%, 31.91%, and 34.76%, respectively, for out-of-sample predictions. The forecasting results indicate that the presented approach can improve generalizability and accuracy in cases of very short and short-term wind energy generation."
+
+categories:
+- Decomposition
+- Ensemble learning
+- Forecasting
+- Optimization
+- Renewable energy
+
+toc: false
+
+about:
+  id: heading
+  template: solana
+  image: featured.png
+  image-shape: rectangle
+  image-width: 10em
+  links:
+    - text: DOI
+      href: https://doi.org/10.1007/s10489-024-05331-2
+      target: _blank
+---
+
+## Journal: Applied Intelligence
+
+::: {#heading}
+:::
+
+::: {.callout-note title="How to cite this work"}
+
+Ribeiro, Matheus Henrique Dal Molin, Ramon Gomes Da Silva, Sinvaldo Rodrigues Moreno, et al. 2024. “Variational Mode Decomposition and Bagging Extreme Learning Machine with Multi-Objective Optimization for Wind Power Forecasting.” Applied Intelligence 54 (4): 3119–34. https://doi.org/10.1007/s10489-024-05331-2.
+
+```bibtex
+@article{ribeiro2024Variational,
+  title = {Variational mode decomposition and bagging extreme learning machine with multi-objective optimization for wind power forecasting},
+  author = {Ribeiro, Matheus Henrique Dal Molin and {da Silva}, Ramon Gomes and Moreno, Sinvaldo Rodrigues and Canton, Cristiane and Larcher, Jos{\'e} Henrique Kleinubing and Stefenon, Stefano Frizzo and Mariani, Viviana Cocco and Coelho, Leandro Santos},
+  year = {2024},
+  month = feb,
+  journal = {Applied Intelligence},
+  pages = {1--16},
+  doi = {10.1007/s10489-024-05331-2}
+}
+```
+
+:::

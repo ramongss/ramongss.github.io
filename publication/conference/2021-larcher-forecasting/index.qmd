@@ -1,0 +1,64 @@
+---
+title: "Forecasting COVID-19 pandemic using an echo state neural network-based framework"
+
+author:
+- José Henrique Kleinübing Larcher
+- "**Ramon Gomes da Silva**"
+- Matheus Henrique Dal Molin Ribeiro
+- Leandro Santos Coelho
+- Viviana Cocco Mariani
+
+date: "2021-07-01"
+
+publication: "*2021 International Joint Conference on Neural Networks (IJCNN)*"
+
+abstract: "Forecasts can help in the decision-making process. Epidemiological forecasts are no different, they can help to evaluate the scenario and possible direction of disease spread, for guiding possible interventions. In this work, Echo State Networks (ESNs) are evaluated for COVID-19 (Coronavirus Disease 2019) cases and deaths forecasting ten days ahead. The chosen locations for the experiment are five states in Brazil, namely Sao Paulo (SP), Bahia (BA), Minas Gerais (MG), Rio de Janeiro (RJ), and Ceara (CE), the states with the most COVID-19 cases as of December 31, 2020. The results are evaluated using performance indexes RMSE (Root-mean-square error), MAE (Mean absolute error), and MAPE (Mean absolute percentage error). Results are compared with a common forecasting technique called ARIMA (Autoregressive Integrated Moving Average). The error signals are compared using Wilcoxon Signed-Rank Test, to evaluate the difference statistically. ESNs presented overall good results for a ten day horizon forecast regarding used performance metrics, but for the number of cases, ARIMA outperformed ESNs regarding RMSE, MAE, and MAPE in all but one state. For the number of deaths however, ESNs outperformed ARIMA in most states when the MAE is taken into account. ESNs are shown to be a solid forecasting model when compared with ARIMA, presenting comparable results and in some cases outperforming it."
+
+categories:
+- Echo state networks
+- COVID-19
+- Time series
+- Forecasting
+- ARIMA
+
+toc: false
+
+about:
+  id: heading
+  template: solana
+  image-shape: rectangle
+  image-width: 10em
+  links:
+    - text: DOI
+      href: https://doi.org/10.1109/ijcnn52387.2021.9533857
+      target: _blank
+    - text: Slides
+      href: "static/slides/2021_IJCNN_JOSE.pdf"
+      target: _blank
+---
+
+## Conference: 2021 International Joint Conference on Neural Networks (IJCNN)
+
+::: {#heading}
+:::
+
+::: {.callout-note title="How to cite this work"}
+
+Larcher, José Henrique Kleinübing, Ramon Gomes da Silva, Matheus Henrique Dal Molin Ribeiro, Leandro Santos Coelho, and Viviana Cocco Mariani. 2021. “Forecasting COVID-19 Pandemic Using an Echo State Neural Network-Based Framework.” International Joint Conference on Neural Networks (IJCNN) (Virtual event), July, 1–8. https://doi.org/10.1109/ijcnn52387.2021.9533857.
+
+
+```bibtex
+@inproceedings{larcher_forecasting_2021,
+ address = {Virtual event},
+ author = {Larcher, José Henrique Kleinübing and Silva, Ramon Gomes da and Ribeiro, Matheus Henrique Dal Molin and Coelho, Leandro Santos and Mariani, Viviana Cocco},
+ booktitle = {International Joint Conference on Neural Networks (IJCNN)},
+ doi = {10.1109/ijcnn52387.2021.9533857},
+ month = {July},
+ pages = {1--8},
+ publisher = {IEEE},
+ title = {Forecasting COVID-19 pandemic using an echo state neural network-based framework},
+ year = {2021}
+}
+```
+
+:::

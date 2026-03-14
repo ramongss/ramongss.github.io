@@ -1,0 +1,62 @@
+---
+title: "Multi-step ahead Bitcoin Price Forecasting Based on VMD and Ensemble Learning Methods"
+
+author:
+- "**Ramon Gomes da Silva**"
+- Matheus Henrique Dal Molin Ribeiro
+- Naylene Fraccanabbia
+- Viviana Cocco Mariani
+- Leandro Santos Coelho
+
+date: "2020-07-19"
+
+publication: "*2020 International Joint Conference on Neural Networks (IJCNN)*"
+
+abstract: "Bitcoin is the leading currency in the cryptocurrency market capturing attention worldwide. Forecasting the Bitcoin price as accurate as possible is essential, but due to its high volatility this task is challenging. Many researchers try, through the years, to develop efficient models for predicting the Bitcoin price using several different data-driven approaches. The objective of this paper is to develop a novel decomposition-ensemble learning model that combines Variational Mode Decomposition (VMD) and Stacking-ensemble learning (STACK) with machine learning algorithms to forecast the Bitcoin price multi-step ahead. The algorithms are k-Nearest Neighbors, Support Vector Regression with Linear kernel, Feed-forward Artificial Neural Network with single-layer perceptron, Generalized Linear Model, and Cubist. Correlation matrix (CORR), principal component analysis (PCA), and Box-Cox transformation (BOXCOX) were used as data preprocessing techniques. Estimating the performance of the proposed models (namely VMD–STACK–CORR, VMD–STACK–PCA, and VMD–STACK–BOXCOX) using relative root mean square error, symmetric mean absolute percentage error, and absolute percentage error measures, defined that for one-day-ahead forecast VMD–STAK–BOXCOX model presented the better performance, and for two and three-days-ahead forecast VMD–STACK–CORR model was chosen, compared to VMD, STACK, and machine learning algorithms models’ performance. Diebold-Mariano statistical test was conducted to evaluate a reduction in forecasting errors. Therefore, the proposed models (VMD–STACK–CORR, VMD–STACK–PCA, and VMD–STACK–BOXCOX) indeed forecast accurately Bitcoin price and outperformed the compared models (VMD, STACK, and machine learning models)."
+
+categories:
+- Bitcoin price
+- Variational mode decomposition
+- Stacking-ensemble learning
+- Forecasting
+- Time series
+
+toc: false
+
+about:
+  id: heading
+  template: solana
+  image-shape: rectangle
+  image-width: 10em
+  links:
+    - text: DOI
+      href: https://doi.org/10.1109/IJCNN48605.2020.9207152
+      target: _blank
+    - text: Slides
+      href: "static/slides/2020_WCCI_RAMON.pdf"
+      target: _blank
+---
+
+## Conference: 2020 International Joint Conference on Neural Networks (IJCNN)
+
+::: {#heading}
+:::
+
+::: {.callout-note title="How to cite this work"}
+
+Silva, Ramon Gomes da, Matheus Henrique Dal Molin Ribeiro, Naylene Fraccanabbia, Viviana Cocco Mariani, and Leandro Santos Coelho. 2020. “Multi-Step Ahead Bitcoin Price Forecasting Based on VMD and Ensemble Learning Methods.” International Joint Conference on Neural Networks (IJCNN) (Glasgow, United Kingdom), July, 1–8. https://doi.org/10.1109/ijcnn48605.2020.9207152.
+
+```bibtex
+@inproceedings{silva2020multi,
+ address = {Glasgow, Scotland},
+ author = {da Silva, Ramon Gomes and Ribeiro, Matheus Henrique Dal Molin and Fraccanabbia, Naylene and Mariani, Viviana Cocco and Coelho, Leandro Santos},
+ booktitle = {International Joint Conference on Neural Networks (IJCNN)},
+ doi = {10.1109/IJCNN48605.2020.9207152},
+ month = {July},
+ pages = {1--8},
+ title = {Multi-step ahead Bitcoin Price Forecasting Based on VMD and Ensemble Learning Methods},
+ year = {2020}
+}
+```
+
+:::

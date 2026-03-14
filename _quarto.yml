@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: _site
+  resources: static
+
+website:
+  title: "Ramon Gomes da Silva"
+  favicon: icon.png 
+  navbar:
+    title: "Ramon Gomes da Silva"
+    right:
+      - text: About me
+        href: index.qmd
+      - text: Projects
+        href: project/index.qmd
+      - text: Publications
+        href: publication/index.qmd
+    search: true
+  page-footer: >
+    &copy; <script>document.write(new Date().getFullYear())</script> Ramon Gomes da Silva. All rights reserved.
+
+format:
+  html:
+    theme:
+      light: cosmo
+    toc: true
+    toc-depth: 2
+    number-sections: false
+    date-format: "DD MMM YYYY"
+    code-fold: true
+    code-copy: true
+    anchor-sections: true
+    link-external-icon: false
+    link-external-newwindow: true
+
+execute:
+  echo: true
+  warning: false
+  message: false

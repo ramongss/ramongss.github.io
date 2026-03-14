@@ -1,0 +1,60 @@
+---
+title: "Cooperative ensemble learning model improves electric short-term load forecasting"
+
+author:
+- Matheus Henrique Dal Molin Ribeiro
+- "**Ramon Gomes da Silva**"
+- Gabriel Trierweiler Ribeiro
+- Viviana Cocco Mariani
+- Leandro dos Santos Coelho
+
+date: "2023-01-01"
+
+publication: "*Chaos, Solitons & Fractals*"
+
+abstract: "Efficient models for short-term load forecasting (STLF) plays a crucial role in establishing the companies’ energetic planning due to their importance in electric power distribution and generation systems. An ensemble learning model based on dual decomposition approach, which combines two signals decomposition techniques, machine learning models and hyperparameters optimization based on metaheuristics, is applied to electric STLF. The seasonal and trend decomposition using locally-weighted regression (STL) decompose the time series into seasonal, trend, and residual components. Moreover, Variational Mode Decomposition (VMD) is applied to decompose the STL residual into different frequencies. Also, seasonal Naïve is adopted to handle the seasonal patterns. Moreover, due to the nonlinearities of the remaining components, an eXtreme gradient boosting model with hyperparameters tuned by a coyote optimization algorithm, extreme learning machines, ridge regression, and support vector regression models are employed to handle the STL trend and VMD components. The datasets from five regions and four seasons of the year for the Australian energy market operator are used to test the effectiveness of the proposed model for STLF with a multi-step-ahead horizon (12-hours-ahead and 24-hours-ahead). The performance analysis is based on the mean absolute error, symmetric mean absolute percentage error (sMAPE), overall weighted average, and Diebold–Mariano statistical test. The results of the study were divided into four comparative experiments: comparisons with (i) single decomposed models, (i) dual decomposed models, (iii) non-decomposed models, and (iv) state-of-art models. Regarding the sMAPE performance criterion, the proposed models achieved errors between 0.75%–3.18% and 1.56%–7.72% for STLF 12 and 24-hours-ahead. In the comparative scenarios, the proposed model improved the forecasting results up to 99% regarding compared models in terms of overall weighted average. Lastly, the proposed cooperative ensemble learning model outperformed 71.25% of the state-of-art models regarding forecasting error reduction in terms of sMAPE. From a broader perspective, the proposed cooperative ensemble learning model showed to be an efficient tool based of forecasting erros reduction for STLF due to its capability to improve forecasting accuracy and achieve reliable forecasting results compared with observed ones."
+
+categories:
+- Ensemble learning methods
+- Machine learning
+- Short-term load forecasting
+- Seasonal and trend decomposition
+- Variational mode decomposition
+
+toc: false
+
+about:
+  id: heading
+  template: solana
+  image: featured.jpg
+  image-shape: rectangle
+  image-width: 10em
+  links:
+    - text: DOI
+      href: https://doi.org/10.1016/j.chaos.2022.112982
+      target: _blank
+---
+
+## Journal: Chaos, Solitons & Fractals
+
+::: {#heading}
+:::
+
+::: {.callout-note title="How to cite this work"}
+
+Ribeiro, Matheus Henrique Dal Molin, Ramon Gomes da Silva, Gabriel Trierweiler Ribeiro, Viviana Cocco Mariani, and Leandro Santos Coelho. 2023. “Cooperative Ensemble Learning Model Improves Electric Short-Term Load Forecasting.” Chaos, Solitons & Fractals 166 (January): 112982. https://doi.org/10.1016/j.chaos.2022.112982.
+
+```bibtex
+@article{ribeiro2023cooperative,
+    title={Cooperative ensemble learning model improves electric short-term load forecasting},
+    author={Ribeiro, Matheus Henrique Dal Molin and da Silva, Ramon Gomes and Ribeiro, Gabriel Trierweiler and Mariani, Viviana Cocco and dos Santos Coelho, Leandro},
+    journal={Chaos, Solitons \& Fractals},
+    volume={166},
+    pages={112982},
+    year={2023},
+    publisher={Elsevier},
+    doi={10.1016/j.chaos.2022.112982}
+}
+```
+
+:::

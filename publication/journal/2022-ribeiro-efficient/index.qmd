@@ -1,0 +1,60 @@
+---
+title: "Efficient bootstrap stacking ensemble learning model applied to wind power generation forecasting"
+
+author:
+- Matheus Henrique Dal Molin Ribeiro
+- "**Ramon Gomes da Silva**"
+- Sinvaldo Rodrigues Moreno
+- Viviana Cocco Mariani
+- Leandro dos Santos Coelho
+
+date: "2022-03-01"
+
+publication: "*International Journal of Electrical Power & Energy Systems*"
+
+abstract: "The use of wind energy plays a vital role in society owing to its economic and environmental importance. Knowing the wind power generation within a specific time window is useful for facilitating decision making in terms of maintenance, electricity market clearing, and reload sharing. However, the effect of climatic and demographic factors on wind power generation sometimes makes time series forecasting a complex task. Thus, this study evaluates an ensemble learning model that combines bagging and stacking methods applied to time series forecasting with very short-term (10 and 30-minutes) and short-term (60 and 120-minutes) evaluations of wind power generation. Arithmetic and weighted average values were used to integrate the samples from bagging strategy. The weights are defined through multi-objective optimization using a non-dominated sorting genetic algorithm – version II, aiming to enhance the forecasting accuracy and stability simultaneously. To demonstrate the wide applicability of the non-linear ensemble learning model, it is extensively tested with measurement data collected from two wind farms in Bahia State, Brazil. The experimental results show that the proposed ensemble learning model achieves a better forecasting performance than single forecasting models, such as stacking, machine learning, artificial neural networks, and statistical models, with values of approximately 7.63%, 7.58%, 20.8%, and 25%, respectively, in terms of the errors for out-of-sample forecasting reduction. In addition, results with a weighted average are 87.5% superior to those with an arithmetic average for out-of-sample wind power forecasting in the evaluated forecasting horizons. The findings show that the integration of ensemble strategies can provide accurate forecasting results in the renewable energy field."
+
+categories:
+- Wind power generation
+- Time series forecasting
+- Bagging method
+- Stacking
+- Ensemble learning models
+
+toc: false
+
+about:
+  id: heading
+  template: solana
+  image: featured.jpg
+  image-shape: rectangle
+  image-width: 10em
+  links:
+    - text: DOI
+      href: https://doi.org/10.1016/j.ijepes.2021.107712
+      target: _blank
+---
+
+## Journal: International Journal of Electrical Power & Energy Systems
+
+::: {#heading}
+:::
+
+::: {.callout-note title="How to cite this work"}
+
+Ribeiro, Matheus Henrique Dal Molin, Ramon Gomes da Silva, Sinvaldo Rodrigues Moreno, Viviana Cocco Mariani, and Leandro Santos Coelho. 2022. “Efficient Bootstrap Stacking Ensemble Learning Model Applied to Wind Power Generation Forecasting.” International Journal of Electrical Power & Energy Systems 136 (107712). https://doi.org/10.1016/j.ijepes.2021.107712.
+
+```bibtex
+@article{ribeiro_efficient_2022,
+ author = {Ribeiro, Matheus Henrique Dal Molin and Silva, Ramon Gomes da and Moreno, Sinvaldo Rodrigues and Mariani, Viviana Cocco and Coelho, Leandro dos Santos},
+ doi = {10.1016/j.ijepes.2021.107712},
+ journal = {International Journal of Electrical Power & Energy Systems},
+ note = {Publisher: Elsevier},
+ number = {107712},
+ title = {Efficient bootstrap stacking ensemble learning model applied to wind power generation forecasting},
+ volume = {136},
+ year = {2022}
+}
+```
+
+:::

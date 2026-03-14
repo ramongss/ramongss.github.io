@@ -1,0 +1,64 @@
+---
+title: "Very short-term wind energy forecasting based on stacking ensemble"
+
+author:
+- Sinvaldo Rodrigues Moreno
+- "**Ramon Gomes da Silva**"
+- Matheus Henrique Dal Molin Ribeiro
+- Naylene Fraccanabbia
+- Viviana Cocco Mariani
+- Leandro dos Santos Coelho
+
+date: "2019-11-03"
+
+publication: "*14th Brazilian Computational Intelligence Meeting*"
+
+abstract: "Wind power generation is one of the technologies of electric production which still in development in Brazil, however, it already has a great penetration in the national energy matrix, representing 13.98% of the national energy consumption in Brazil. Due to the high level of uncertainty and the chaotic fluctuations in wind speed, predictions of wind energy with high accuracy is a challenge. In this context a stacking ensemble (STACK) model is proposed to forecast the wind power generation of a turbine in a wind farm at Parazinho, RN-Brazil. The proposed model combines four different algorithms as base-learners, such as, eXtreme Gradient Boosting (xgBoost), Support Vector Machine for regression with Linear Kernel (SVR-Linear), Multi-Layer Perceptron with multiple layers (MLP) and K-Nearest Neighbors (K-NN), and one algorithm as meta-learner-Support Vector Machine for regression with Radial Basis Function Kernel (SVR-RBF). To access the performance of adopted methodology, the results of STACK are compared with the results of the base-learners. Four performance measure criteria, as well as statistical tests are adopted. As results, STACK reached better results in all performance measures. Indeed, STACK and SVR-Linear are statistically equals. According to these results, applying the STACK proposed model indeed improved the forecasting when comparing with the other algorithms tested individually."
+
+categories:
+- Wind energy
+- Forecasting
+- Time series
+- Machine learning
+- Stacking ensemble
+
+toc: false
+
+about:
+  id: heading
+  template: solana
+  image-shape: rectangle
+  image-width: 10em
+  links:
+    - text: DOI
+      href: https://doi.org/10.21528/CBIC2019-22
+      target: _blank
+    - text: Slides
+      href: "static/slides/2019_CBIC_Wind.pdf"
+      target: _blank
+---
+
+## Conference: 14th Brazilian Computational Intelligence Meeting
+
+::: {#heading}
+:::
+
+::: {.callout-note title="How to cite this work"}
+
+Moreno, Sinvaldo Rodrigues, Ramon Gomes da Silva, Matheus Henrique dal Molin Ribeiro, Naylene Fraccanabbia, Viviana Cocco Mariani, and Leandro Santos Coelho. 2019. “Very Short-Term Wind Energy Forecasting Based on Stacking Ensemble.” Anais Do 14. Congresso Brasileiro de Inteligência Computacional (Belém, Brazil), November, 1–7. https://doi.org/10.21528/cbic2019-22.
+
+```bibtex
+@inproceedings{Moreno2019very,
+ abstract = {Wind power generation is one of the technologies of electric production which still in development in Brazil, however, it already has a great penetration in the national energy matrix, representing 13.98% of the national energy consumption in Brazil. Due to the high level of uncertainty and the chaotic fluctuations in wind speed, predictions of wind energy with high accuracy is a challenge. In this context a stacking ensemble (STACK) model is proposed to forecast the wind power generation of a turbine in a wind farm at Parazinho, RN-Brazil. The proposed model combines four different algorithms as base-learners, such as, eXtreme Gradient Boosting (xgBoost), Support Vector Machine for regression with Linear Kernel (SVR-Linear), Multi-Layer Perceptron with multiple layers (MLP) and K-Nearest Neighbors (K-NN), and one algorithm as meta-learner-Support Vector Machine for regression with Radial Basis Function Kernel (SVR-RBF). To access the performance of adopted methodology, the results of STACK are compared with the results of the base-learners. Four performance measure criteria, as well as statistical tests are adopted. As results, STACK reached better results in all performance measures. Indeed, STACK and SVR-Linear are statistically equals. According to these results, applying the STACK proposed model indeed improved the forecasting when comparing with the other algorithms tested individually.},
+ address = {Belém, Brazil},
+ author = {Moreno, Sinvaldo Rodrigues and da Silva, Ramon Gomes and Ribeiro, Matheus Henrique Dal Molin and Fraccanabbia, Naylene and Mariani, Viviana Cocco and Coelho, Leandro dos Santos},
+ booktitle = {14th Brazilian Computational Intelligence Meeting},
+ keywords = {Wind energy, forecasting, time series, machine learning, stacking ensemble},
+ title = {Very short-term wind energy forecasting based on stacking ensemble},
+ url = {http://abricom.org.br/eventos/cbic2019/cbic2019-22/},
+ doi = {10.21528/CBIC2019-22},
+ year = {2019}
+}
+```
+
+:::

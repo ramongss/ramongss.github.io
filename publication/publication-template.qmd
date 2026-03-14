@@ -1,0 +1,52 @@
+---
+title: ""
+
+author:
+- "**Ramon Gomes da Silva**"
+- author2
+- author3
+
+date: "yyyy-mm-dd"
+
+publication: "*Proceedings / Journal name*"
+
+abstract: ""
+
+categories:
+- keyword1
+- keyword2
+- keyword3
+
+toc: false
+
+about:
+  id: heading
+  template: solana
+  image: featured.png
+  image-shape: rectangle
+  image-width: 10em
+  links:
+    - text: DOI
+      href: https://doi.org/
+      target: _blank
+    #- text: Slides
+    #  href: "static/slides/"
+    #  target: _blank
+---
+
+## Conference: Proceedings Name
+## Journal: Journal Name
+## Book: Book Name
+
+::: {#heading}
+:::
+
+::: {.callout-note title="How to cite this work"}
+
+Reference extracted from Zotero as Chicago Style
+
+```bibtex
+
+```
+
+:::

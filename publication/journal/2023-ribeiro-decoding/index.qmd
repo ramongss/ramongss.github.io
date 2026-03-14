@@ -1,0 +1,65 @@
+---
+title: "Decoding Electroencephalography Signal Response by Stacking Ensemble Learning and Adaptive Differential Evolution"
+
+author:
+- Matheus Henrique Dal Molin Ribeiro
+- "**Ramon Gomes da Silva**"
+- José Henrique Kleinubing Larcher
+- Andre Mendes
+- Viviana Cocco Mariani
+- Leandro dos Santos Coelho
+
+date: "2023-08-08"
+
+publication: "*Sensors*"
+
+abstract: "Electroencephalography (EEG) is an exam widely adopted to monitor cerebral activities regarding external stimuli, and its signals compose a nonlinear dynamical system. There are many difficulties associated with EEG analysis. For example, noise can originate from different disorders, such as muscle or physiological activity. There are also artifacts that are related to undesirable signals during EEG recordings, and finally, nonlinearities can occur due to brain activity and its relationship with different brain regions. All these characteristics make data modeling a difficult task. Therefore, using a combined approach can be the best solution to obtain an efficient model for identifying neural data and developing reliable predictions. This paper proposes a new hybrid framework combining stacked generalization (STACK) ensemble learning and a differential-evolution-based algorithm called Adaptive Differential Evolution with an Optional External Archive (JADE) to perform nonlinear system identification. In the proposed framework, five base learners, namely, eXtreme Gradient Boosting, a Gaussian Process, Least Absolute Shrinkage and Selection Operator, a Multilayer Perceptron Neural Network, and Support Vector Regression with a radial basis function kernel, are trained. The predictions from all these base learners compose STACK’s layer-0 and are adopted as inputs of the Cubist model, whose hyperparameters were obtained by JADE. The model was evaluated for decoding the electroencephalography signal response to wrist joint perturbations. The variance accounted for (VAF), root-mean-squared error (RMSE), and Friedman statistical test were used to validate the performance of the proposed model and compare its results with other methods in the literature, including the base learners. The JADE-STACK model outperforms the other models in terms of accuracy, being able to explain around, as an average of all participants, 94.50% and 67.50% (standard deviations of 1.53 and 7.44, respectively) of the data variability for one step ahead and three steps ahead, which makes it a suitable approach to dealing with nonlinear system identification. Also, the improvement over state-of-the-art methods ranges from 0.6% to 161% and 43.34% for one step ahead and three steps ahead, respectively. Therefore, the developed model can be viewed as an alternative and additional approach to well-established techniques for nonlinear system identification once it can achieve satisfactory results regarding the data variability explanation."
+
+categories:
+- Nonlinear system identification
+- Machine learning
+- Time-series modeling
+- Differential evolution
+- Electroencephalography signal response
+
+toc: false
+
+about:
+  id: heading
+  template: solana
+  image: featured.jpg
+  image-shape: rectangle
+  image-width: 10em
+  links:
+    - text: DOI
+      href: https://doi.org/10.3390/s23167049
+      target: _blank
+---
+
+## Journal: Source
+
+::: {#heading}
+:::
+
+::: {.callout-note title="How to cite this work"}
+
+Ribeiro, Matheus Henrique Dal Molin, Ramon Gomes Da Silva, José Henrique Kleinubing Larcher, Andre Mendes, Viviana Cocco Mariani, and Leandro Dos Santos Coelho. 2023. “Decoding Electroencephalography Signal Response by Stacking Ensemble Learning and Adaptive Differential Evolution.” Sensors 23 (16): 7049. https://doi.org/10.3390/s23167049.
+
+```bibtex
+@article{ribeiro2023Decoding,
+  title = {Decoding {{Electroencephalography Signal Response}} by {{Stacking Ensemble Learning}} and {{Adaptive Differential Evolution}}},
+  author = {Ribeiro, Matheus Henrique Dal Molin and {da Silva}, Ramon Gomes and Larcher, Jos{\'e} Henrique Kleinubing and Mendes, Andre and Mariani, Viviana Cocco and Coelho, Leandro Santos},
+  year = {2023},
+  month = aug,
+  journal = {Sensors},
+  volume = {23},
+  number = {16},
+  pages = {7049},
+  issn = {1424-8220},
+  doi = {10.3390/s23167049},
+  urldate = {2023-08-19},
+  langid = {english}
+}
+```
+
+:::

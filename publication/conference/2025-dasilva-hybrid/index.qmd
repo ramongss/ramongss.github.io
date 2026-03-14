@@ -1,0 +1,66 @@
+---
+title: "Hybrid machine learning models applied to daily urban water consumption prediction"
+
+author:
+- "**Ramon Gomes da Silva**"
+- Luis Fernando Agottani
+- Anderson Schamne
+- Andre Silva
+- Gustavo Rafael Collere Possetti
+- Leandro Santos Coelho
+- Viviana Cocco Mariani
+
+date: "2025-06-30"
+
+publication: "*2025 International Joint Conference on Neural Networks (IJCNN)*"
+
+abstract: "This study proposes hybrid machine learning (ML) models to predict the daily urban water consumption scenario in a neighborhood Brazilian city. The framework evaluates various signal decomposition modes, including empirical wavelet transform (EWT), complete ensemble empirical mode decomposition with adaptive noise (CEEMDAN), seasonal-trend decomposition (STL) using LOESS Locally Estimated Scatterplot Smoothing with locally estimated scatterplot smoothing, and variational mode decomposition (VMD), to prepare the dataset. The decomposed data are combined with different ML models such as Bayesian regularized neural networks (BRNN), extreme learning machines (ELM), k-nearest neighbor (KNN), multilayer perceptron neural network (MLP), support vector regression with linear kernel function (SVRL), and support vector regression with radial basis function kernel (SVRR) for daily short- and long-term forecasting. The CEEMDAN-SVRL and VMD-SVRL hybrid models are found to have the best results in terms of statistical metrics and performance criteria, significantly improving the prediction accuracy and the stability of the results. The study demonstrates the potential of ML frameworks to improve water resource planning and management by accurately predicting water consumption scenarios. Some results obtained suggested that the VMD-SVRL model performed better in most scenarios."
+
+categories:
+- Empirical wavelet transformation
+- Machine learning
+- Time series forecasting
+- Variational mode decomposition
+- Water consumption
+
+toc: false
+
+about:
+  id: heading
+  template: solana
+  image: featured.png
+  image-shape: rectangle
+  image-width: 10em
+  links:
+    - text: DOI
+      href: https://doi.org/10.1109/IJCNN64981.2025.11227717
+    - text: Poster
+      href: "/poster/2025_POSTER_IJCNN.pdf"
+
+---
+
+## Conference: 2025 International Joint Conference on Neural Networks (IJCNN)
+
+::: {#heading}
+:::
+
+::: {.callout-note title="How to cite this work"}
+
+
+Da Silva, Ramon Gomes, Luis Fernando Rodrigues Agottani, Anderson Schamne, et al. 2025. “Hybrid Machine Learning Models Applied to Daily Urban Water Consumption Prediction.” 2025 International Joint Conference on Neural Networks (IJCNN), June 30, 1–8. https://doi.org/10.1109/IJCNN64981.2025.11227717.
+
+```bibtex
+@inproceedings{dasilva2025hybrid,
+ address = {Rome, Italy},
+ author = {Ramon Gomes {da Silva} and Luis Fernando Agottani and Anderson Schamne and Andre Silva and Gustavo Rafael Collere Possetti and Leandro Santos Coelho and Viviana Cocco Mariani},
+ booktitle = {International Joint Conference on Neural Networks (IJCNN)},
+ doi = {10.1109/IJCNN64981.2025.11227717},
+ month = {jun},
+ pages = {1--8},
+ publisher = {IEEE},
+ title = {Hybrid machine learning models applied to daily urban water consumption prediction},
+ year = {2025}
+}
+```
+
+:::

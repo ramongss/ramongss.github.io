@@ -1,0 +1,63 @@
+---
+title: "Forecasting the cumulative cases of COVID-19 in four large Brazilian cities using machine learning approaches"
+
+author:
+- "**Ramon Gomes da Silva**"
+- Matheus Henrique Dal Molin Ribeiro
+- José Henrique Kleinübing Larcher
+- Viviana Cocco Mariani
+- Leandro Santos Coelho
+
+date: "2020-12-01"
+
+publication: "*INnovation for Systems Information and Decision meeting (INSID)*"
+
+abstract: "The Coronavirus disease 2019 (COVID-19) is a disease responsible for infecting millions of people since the first notification until nowadays. Developing efficient short-term forecasting models allow knowing the number of future COVID-19 cases. In this context, it is possible to develop strategic planning in the public health system to avoid deaths. In this paper, autoregressive integrated moving average (ARIMA), and machine learning approaches called cubist regression (CUBIST), k-Nearest Neighbor (kNN), support vector regression (SVR), and stacked generalization (STACK) are evaluated in the task of time series forecasting six-days-ahead of the COVID-19 cumulative confirmed cases in four Brazilian cities with high daily incidence. In the STACK approach, the kNN and SVR models are adopted as base-learners and CUBIST as meta-learner. The models' effectiveness is evaluated based on performance metrics including improvement index, mean absolute error, root mean squared error, and symmetric mean absolute percentage error. In most of the evaluated COVID-19 cases, the STACK reached a better performance regarding adopted criteria when compared with other models. In general, the developed models can generate accurate forecasting, achieving errors in a range of 0.28% - 1.62% in six-days-ahead. The ranking of the models in most scenarios is STACK, ARIMA, SVR, and kNN. The use of evaluated models is recommended to forecast and monitor the ongoing growth of COVID-19 cases, once these models can assist the managers in the decision-making support systems."
+
+categories:
+- COVID-19
+- Autoregressive integrated moving average
+- Forecasting
+- Machine learning
+- Decision-making
+
+toc: false
+
+about:
+  id: heading
+  template: solana
+  image-shape: rectangle
+  image-width: 10em
+  links:
+    - text: PDF
+      href: https://insidmeetings.org/insid2020/wp-content/uploads/2020/12/Local-Proceedings-INSID-2020-1.pdf
+      target: _blank
+    - text: Slides
+      href: "static/slides/2020_INSID.pdf"
+      target: _blank
+---
+
+## Conference: INnovation for Systems Information and Decision meeting (INSID)
+
+::: {#heading}
+:::
+
+::: {.callout-note title="How to cite this work"}
+
+Silva, Ramon Gomes da, Matheus Henrique Dal Molin Ribeiro, José Henrique Kleinübing Larcher, Viviana Cocco Mariani, and Leandro Santos Coelho. 2020. “Forecasting the Cumulative Cases of COVID-19 in Four Large Brazilian Cities Using Machine Learning Approaches.” INnovation for Systems Information and Decision Meeting (INSID) (Recife, Brazil), December, 60–67. http://insid.events/insid2020/wp-content/uploads/2020/12/Local-Proceedings-INSID-2020-1.pdf.
+
+```bibtex
+@inproceedings{dasilva2020insid,
+ address = {Recife, Brazil},
+ author = {Ramon Gomes da Silva and Matheus Henrique Dal Molin Ribeiro and José Henrique Kleinübing Larcher and Viviana Cocco Mariani and Leandro Santos Coelho},
+ booktitle = {INnovation for Systems Information and Decision meeting (INSID)},
+ month = {dec},
+ pages = {60--67},
+ publisher = {INSID},
+ title = {Forecasting the cumulative cases of COVID-19 in four large Brazilian cities using machine learning approaches},
+ url = {http://insid.events/insid2020/wp-content/uploads/2020/12/Local-Proceedings-INSID-2020-1.pdf},
+ year = {2020}
+}
+```
+
+:::

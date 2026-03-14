@@ -1,0 +1,62 @@
+---
+title: "Wildfire spots analysis and forecasting: Evaluation of univariate and multivariate based on variational mode decomposition models"
+
+author:
+- Vinicius Lovatel Rocha
+- "**Ramon Gomes da Silva**"
+- Gilson Adamczuk Oliveira
+- Matheus Henrique Dal Molin Ribeiro
+
+date: "2026-01-12"
+
+# doi: "10.1016/j.asoc.2026.114606"
+
+publication: "*Applied Soft Computing*"
+
+abstract: "Every year, forest fires affect large areas of Santa Catarina State in Brazil, causing significant environmental, economic, and property damage. This study aims to predict fire outbreaks in Lages and Xanxerê, municipalities with high incidence rates, using data from the Santa Catarina Military Fire Department (CBMSC). The goal is to support more efficient resource management and personnel allocation during high-risk periods. The time series comprises 70 monthly observations, covering February 2019 to December 2024. The methodology combines univariate and multivariate models with Variational Mode Decomposition (VMD) to generate short-term forecasts for one-, two-, and three-month horizons, applying a rolling-window cross-validation protocol. The data were tested in their original form and with logarithmic and square root transformations to enhance predictive performance. Evaluation measures included RMSE, MAE, sMAPE, and error standard deviation. In Lages, the best result was achieved using square-root transformed data and the VMD–LASSO model (RMSE = 1.2074; sMAPE = 58.90). In Xanxerê, the best performance was achieved by applying the same model to the original data (RMSE = 1.5248; sMAPE = 67.79). These findings provide a decision-support tool for CBMSC, enabling more accurate planning and resource mobilization during critical periods and strengthening wildfire prevention and response strategies."
+
+categories:
+- Time series forecasting
+- Signal decomposition
+- Fire outbreak prediction
+- Forest fires
+
+toc: false
+
+about:
+  id: heading
+  template: solana
+  image: featured.jpg
+  image-shape: rectangle
+  image-width: 10em
+  links:
+    - text: DOI
+      href: https://doi.org/10.1016/j.asoc.2026.114606
+
+---
+
+## Journal: Applied Soft Computing
+
+::: {#heading}
+:::
+
+::: {.callout-note title="How to cite this work"}
+
+
+Rocha, Vinicius Lovatel, Ramon Gomes Da Silva, Gilson Adamczuk Oliveira, and Matheus Henrique Dal Molin Ribeiro. 2026. “Wildfire Spots Analysis and Forecasting: Evaluation of Univariate and Multivariate Based on Variational Mode Decomposition Models.” Applied Soft Computing 190 (March): 114606. https://doi.org/10.1016/j.asoc.2026.114606.
+
+```bibtex
+@article{rocha2026wildfire,
+  author = {Vininius Lovatel Rocha and Ramon Gomes {da Silva} and Gilson Adamczuk Oliveira and Matheus Henrique Dal Molin Ribeiro},
+  doi = {10.1016/j.asoc.2026.114606},
+  journal = {Applied Soft Computing},
+  month = mar,
+  year = 2026,
+  volume = {190},
+  pages = {114606},
+  publisher = {Elsevier BV},
+  title = {Wildfire spots analysis and forecasting: Evaluation of univariate and multivariate based on variational mode decomposition models},
+}
+```
+
+:::

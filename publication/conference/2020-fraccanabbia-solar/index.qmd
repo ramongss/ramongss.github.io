@@ -1,0 +1,64 @@
+---
+title: "Solar Power Forecasting Based on Ensemble Learning Methods"
+
+author:
+- Naylene Fraccanabbia
+- "**Ramon Gomes da Silva**"
+- Matheus Henrique Dal Molin Ribeiro
+- Sinvaldo Rodrigues Moreno
+- Leandro Santos Coelho
+- Viviana Cocco Mariani
+
+date: "2020-07-19"
+
+publication: "*2020 International Joint Conference on Neural Networks (IJCNN)*"
+
+abstract: "Alternative energy sources are becoming more and more common around the world. In order to reduce environmental pollution and CO 2 emissions, in addition to being an ideal solution to overcome the energy crisis. In this context, power energy stands out, as it is the most abundant and most widely available natural resource on the entire planet. Due to the high level of uncertainty of the factors that directly interfere in the generation of solar power, such as temperature and solar radiation, make predictions of solar power with high precision is a challenge. Thus, the objective of this article is to develop a forecasting model, through time series, that makes it possible to predict the production of power energy, using a database collected in a photovoltaic plant in Uruguay. For the development of the proposal, models (base-learners), pre-processing techniques and models (meta-learners) used in the Stacking-Ensemble Learnig (STACK) method were used, which were compared using the measurements of performance Relative Root Mean Square Error (RRMSE), Symmetric Mean Absolute Percentage Error (sMAPE) and Determination Coefficient (R 2 ) in addition to statistical tests. In the end, it can be concluded that the combination Correlation Matrix (CORR) and Language Model (LM), from Layer-0 obtained the best results, in the three performance measures and the combination of models (base-learners) and pre-processing techniques (Layer-0) presented the best results when compared to Layer-1, obtaining satisfactory values in all performance measures."
+
+categories:
+- Solar power
+- Time series
+- Forecasting
+- Stacking-ensemble learning
+- Machine learning
+
+toc: false
+
+about:
+  id: heading
+  template: solana
+  image-shape: rectangle
+  image-width: 10em
+  links:
+    - text: DOI
+      href: https://doi.org/10.1109/IJCNN48605.2020.9206777
+      target: _blank
+    - text: Slides
+      href: "static/slides/2020_WCCI_NAY.pdf"
+      target: _blank
+---
+
+## Conference: 2020 International Joint Conference on Neural Networks (IJCNN)
+
+::: {#heading}
+:::
+
+::: {.callout-note title="How to cite this work"}
+
+Fraccanabbia, Naylene, Ramon Gomes da Silva, Matheus Henrique Dal Molin Ribeiro, Sinvaldo Rodrigues Moreno, Leandro Santos Coelho, and Viviana Cocco Mariani. 2020. “Solar Power Forecasting Based on Ensemble Learning Methods.” International Joint Conference on Neural Networks (IJCNN) (Glasgow, United Kingdom), July, 1–7. https://doi.org/10.1109/ijcnn48605.2020.9206777.
+
+
+```bibtex
+@inproceedings{fraccanabbia2020solar,
+ address = {Glasgow, Scotland},
+ author = {Fraccanabbia, Naylene and da Silva, Ramon Gomes and Ribeiro, Matheus Henrique Dal Molin and Moreno, Sinvaldo Rodrigues and Coelho, Leandro Santos and Mariani, Viviana Cocco},
+ booktitle = {International Joint Conference on Neural Networks (IJCNN)},
+ doi = {10.1109/IJCNN48605.2020.9206777},
+ month = {July},
+ pages = {1--8},
+ title = {Solar Power Forecasting Based on Ensemble Learning Methods},
+ year = {2020}
+}
+```
+
+:::
