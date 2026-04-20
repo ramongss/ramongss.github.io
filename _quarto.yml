@@ -5,7 +5,7 @@ project:
 
 website:
   title: "Ramon Gomes da Silva"
-  favicon: icon.png 
+  favicon: /assets/images/icon.png 
   navbar:
     title: "Ramon Gomes da Silva"
     right:
@@ -15,9 +15,15 @@ website:
         href: project/index.qmd
       - text: Publications
         href: publication/index.qmd
+      - text: Talks
+        href: talks/index.qmd
     search: true
-  page-footer: >
-    &copy; <script>document.write(new Date().getFullYear())</script> Ramon Gomes da Silva. All rights reserved.
+  page-footer:
+    center: |
+      &copy; <span id="year"></span> Ramon Gomes da Silva. All rights reserved.
+      <script>
+        document.getElementById("year").textContent = new Date().getFullYear();
+      </script>
 
 format:
   html:

@@ -1,0 +1,17 @@
+---
+title: "Talks & Presentations"
+pagetitle: Talks & Presentations
+date-format: "DD MMM YYYY"
+page-layout: full
+title-block-banner: true
+toc: true
+listing:
+    - id: talks
+      contents: "*/*.qmd"
+      type: grid
+      sort:
+        - "date desc"
+        - "title"
+      categories: true
+      fields: [date, title, event, categories, local, image]
+---

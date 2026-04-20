@@ -8,7 +8,7 @@ format:
     page-layout: full
     about:
       template: trestles
-      image: avatar.jpg
+      image: /assets/images/avatar.jpg
       links:
         - icon: github
           text: Github
