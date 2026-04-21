@@ -23,11 +23,15 @@ about:
     template: jolla
     image: featured.png
     image-shape: rectangle
-    # image-width: 25em
+    # image-width: 50em
     links:
         - icon: images
-          text: Slides
-          href: "static/slides/2026-UNB.pdf"
+          text: Slides - Apresentação
+          href: "static/slides/2026_APRESENTACAO_UNB.pdf"
+          target: _blank
+        - icon: images
+          text: Slides - Palestra
+          href: "static/slides/2026_WORKSHOP_UNB.pdf"
           target: _blank
         - icon: github
           text: Github Repo

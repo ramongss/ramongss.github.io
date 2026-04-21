@@ -16,11 +16,13 @@ listing:
 
   - id: journal
     contents: "journal/*/*.qmd"
+    filter-ui: true
+    sort-ui: true
     type: default
     sort:
       - "date desc"
       - "title"
-    fields: [date, author, title, publication, categories, image]
+    fields: [date, author, title, publication, categories]
 
   - id: book-chapter
     contents: "book-chapter/*/*.qmd"
@@ -28,7 +30,7 @@ listing:
     sort:
       - "date desc"
       - "title"
-    fields: [date, author, title, publication, categories, image]
+    fields: [date, author, title, publication, categories]
 
   - id: conference
     contents: "conference/*/*.qmd"
@@ -50,7 +52,7 @@ listing:
     sort:
       - "date desc"
       - "title"
-    fields: [date, author, title, publication, categories, image]
+    fields: [date, author, title, publication, categories]
 
   - id: preprint
     contents: "preprint/*/*.qmd"
