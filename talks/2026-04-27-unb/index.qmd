@@ -1,0 +1,49 @@
+---
+title: "Previsão de Séries Temporais Epidemiológicas na Prática"
+
+author: "**Ramon Gomes da Silva**"
+
+date: "2026-04-27"
+
+event: "III Jornada de Ciência de Dados e Inteligência Artificial"
+
+local: "Universidade de Brasília (UNB), Brasília, Brazil"
+
+categories:
+    - Português
+    - Python
+    - Nixtlaverse
+    - Previsão de Séries Temporais
+    - Epidemiologia
+
+toc: false
+
+about:
+    id: heading
+    template: jolla
+    image: featured.png
+    image-shape: rectangle
+    # image-width: 25em
+    links:
+        - icon: images
+          text: Slides
+          href: "static/slides/2026-UNB.pdf"
+          target: _blank
+        - icon: github
+          text: Github Repo
+          href: "https://github.com/ramongss/2026-04-27-palestra-unb"
+          target: _blank
+        - icon: files
+          text: Dataset
+          href: "https://github.com/ramongss/2026-04-27-palestra-unb/blob/main/data.csv"
+          target: _blank
+---
+
+::: {#heading}
+:::
+
+**Evento:** III Jornada de Ciência de Dados e Inteligência Artificial
+
+**Data:** 27 a 29 de Abril de 2026.
+
+**Local:** Universidade de Brasília (UNB), Brasília, Brasil
