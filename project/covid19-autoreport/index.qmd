@@ -9,6 +9,7 @@ buttons:
   - icon: github
     text: Source
     href: https://github.com/ramongss/COVID19-AutoReports/
+    target: _blank
 categories:
   - COVID-19
   - Moving Average

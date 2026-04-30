@@ -13,19 +13,26 @@ format:
         - icon: github
           text: Github
           href: https://github.com/ramongss
+          target: _blank
         - icon: linkedin
           text: LinkedIn
           href: https://www.linkedin.com/in/ramongomesdasilva/
+          target: _blank
         - text: "{{< ai lattes >}} Lattes"
           href: http://lattes.cnpq.br/5215999364926772
+          target: _blank
         - text: "{{< ai orcid >}} Orcid"
           href: https://orcid.org/0000-0001-8580-7695
+          target: _blank
         - text: "{{< ai scopus >}} ScopusID"
           href: https://www.scopus.com/authid/detail.uri?authorId=57216842447
+          target: _blank
         - text: "{{< ai google-scholar >}} Google Scholar"
           href: https://scholar.google.com/citations?hl=en-US&user=s00ZdLQAAAAJ
+          target: _blank
         - text: "{{< ai researchgate >}} ResearchGate"
           href: https://www.researchgate.net/profile/Ramon-Gomes-Da-Silva
+          target: _blank
 ---
 
 # `> Hello, World!` 👋

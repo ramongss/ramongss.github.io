@@ -9,9 +9,11 @@ buttons:
   - icon: link
     text: Shiny App
     href: https://ramongss.shinyapps.io/qualiscapes/
+    target: _blank
   - icon: github
     text: Source
     href: https://github.com/ramongss/qualiscapes/blob/master/app.R
+    target: _blank
 categories:
   - Qualis Capes
   - Shiny App

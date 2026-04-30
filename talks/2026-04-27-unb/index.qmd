@@ -25,8 +25,12 @@ about:
     image-shape: rectangle
     # image-width: 50em
     links:
+        - icon: youtube
+          text: Live - Abertura
+          href: "https://www.youtube.com/live/ZVAZP0bwFQQ?si=j8AUb25b4eXP93tC"
+          target: _blank
         - icon: images
-          text: Slides - Apresentação
+          text: Slides - Abertura
           href: "static/slides/2026_APRESENTACAO_UNB.pdf"
           target: _blank
         - icon: images
@@ -50,4 +54,4 @@ about:
 
 **Data:** 27 a 29 de Abril de 2026.
 
-**Local:** Universidade de Brasília (UNB), Brasília, Brasil
+**Local:** Universidade de Brasília (UNB), Brasília, DF, Brasil

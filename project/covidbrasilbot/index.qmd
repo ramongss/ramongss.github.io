@@ -9,9 +9,11 @@ buttons:
   - icon: twitter
     text: Twitter
     href: https://twitter.com/covidbrasilbot/
+    target: _blank
   - icon: github
     text: Source
     href: https://github.com/ramongss/covidbrasilbot/
+    target: _blank
 categories:
   - COVID-19
   - Twitter

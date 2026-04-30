@@ -28,6 +28,7 @@ about:
   links:
     - text: DOI
       href: https://doi.org/10.48550/arXiv.2007.07979
+      target: _blank
 
 ---
 
