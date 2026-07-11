@@ -1,0 +1,61 @@
+---
+title: "Improving Wind Speed Forecasts Through Multi-Stage Signal Decomposition and Hierarchical Time Series"
+
+author:
+- "**Ramon Gomes da Silva**"
+- Matheus Henrique Dal Molin Ribeiro
+- Victor Henrique Alves Ribeiro
+
+date: "2026-06-24"
+
+publication: "*IEEE Access*"
+
+abstract: "Accurate short-term wind speed forecasts are vital for renewable energy scheduling and grid stability. This paper introduces a hybrid framework that interprets multi-stage signal decomposition as a hierarchical time series problem, enabling the application of reconciliation methods. The approach first extracts the trend via Variational Mode Decomposition (VMD) and then applies Singular Spectrum Analysis (SSA) to residuals, forming a three-level hierarchy of eight series. Forecasts are generated with statistical baselines--Autoregressive Integrated Moving Average (ARIMA) and Exponential Smoothing (ETS)--machine learning regressors, and a deep learning model, while reconciliation strategies (Bottom-Up, Ordinary Least Squares, Minimum Trace with Shrinkage, Top-Down) enforce coherence across levels. The framework is evaluated on two wind speed datasets from Northeastern Brazil (2017 and 2020), covering 10-, 30-, and 60-minute horizons. Results show that decomposition combined with reconciliation improves forecasting in nearly all scenarios across both datasets, where Bottom-Up and Minimum Trace with Shrinkage reconciliation consistently outperformed alternatives, with improvements of 47.2%--74.7% for ARIMA and 4.4%--34.6% for ETS, with Dataset B (2017) yielding larger gains owing to its higher wind speed regularity. Analysis also highlights that upper decomposition layers carry most predictive value, while deeper residual components introduce noise. Overall, the study demonstrates that hierarchical structuring of decomposed signals allows classical models with reconciliation to rival or surpass advanced machine learning and deep learning regressors providing an efficient and interpretable solution for multi-horizon wind speed forecasting."
+
+categories:
+- Time Series Forecasting
+- Signal Decomposition
+- Hierarchical Forecasting
+- Wind Speed
+- Renewable Energy
+
+toc: false
+
+about:
+  id: heading
+  template: solana
+  image: featured.png
+  image-shape: rectangle
+  image-width: 10em
+  links:
+    - text: DOI
+      href: https://doi.org/10.1109/ACCESS.2026.3707032
+      target: _blank
+---
+
+## Journal: IEEE Access
+
+::: {#heading}
+:::
+
+::: {.callout-note title="How to cite this work"}
+
+da Silva, Ramon Gomes, Matheus Henrique Dal Molin Ribeiro, and Victor Henrique Alves Ribeiro. 2026. “Improving Wind Speed Forecasts Through Multi-Stage Signal Decomposition and Hierarchical Time Series.” IEEE Access 14: 96648–66. https://doi.org/10.1109/ACCESS.2026.3707032.
+
+
+```bibtex
+@article{dasilva2026improving,
+  title = {Improving Wind Speed Forecasts Through Multi-Stage Signal Decomposition and Hierarchical Time Series},
+  author = {{da Silva}, Ramon Gomes and Ribeiro, Matheus Henrique Dal Molin and Ribeiro, Victor Henrique Alves},
+  year = 2026,
+  journal = {IEEE Access},
+  volume = {14},
+  pages = {96648--96666},
+  issn = {2169-3536},
+  doi = {10.1109/ACCESS.2026.3707032},
+  urldate = {2026-07-11},
+  copyright = {https://creativecommons.org/licenses/by/4.0/legalcode}
+}
+```
+
+:::
