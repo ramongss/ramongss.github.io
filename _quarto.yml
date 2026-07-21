@@ -5,7 +5,14 @@ project:
 
 website:
   title: "Ramon Gomes da Silva"
-  favicon: /assets/images/icon.png 
+  site-url: "https://ramongss.com"
+  description: "Research Professor and Data Scientist — machine learning, AI and time series forecasting."
+  robots: true
+  favicon: /assets/images/icon.png
+  open-graph:
+    title: "Ramon Gomes da Silva"
+    description: "Research Professor and Data Scientist - machine learning, AI and time series forecasting."
+    imagem: /assets/images/icon.png
   navbar:
     title: "Ramon Gomes da Silva"
     right:
