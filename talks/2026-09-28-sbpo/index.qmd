@@ -1,0 +1,49 @@
+---
+title: "Previsão de Séries Temporais Epidemiológicas com Estruturas Hierárquicas e Aprendizado de Máquina"
+
+author: "**Ramon Gomes da Silva**"
+
+date: "2026-09-28"
+
+event: "LVIII Simpósio Brasileiro de Pesquisa Operacional (SBPO)"
+
+local: "Belo Horizonte, MG, Brazil"
+
+categories:
+    - Português
+    - Previsão Epidemiológica
+    - Séries Temporais Hieráquicas
+    - Aprendizado de Máquina
+    - Saúde Pública
+
+toc: false
+
+about:
+    id: heading
+    template: jolla
+    image: featured.png
+    image-shape: rectangle
+    # image-width: 50em
+    links:
+        - icon: images
+          text: Slides - Palestra
+          href: ""
+          target: _blank
+        - icon: github
+          text: Github Repo
+          href: "https://github.com/ramongss/2026-09-28-workshop-sbpo/"
+          target: _blank
+        - icon: files
+          text: Dataset
+          href: "https://github.com/ramongss/2026-09-28-workshop-sbpo/blob/main/data-dengue.csv"
+          target: _blank
+---
+
+::: {#heading}
+:::
+
+**Evento:** LVIII Simpósio Brasileiro de Pesquisa Operacional (SBPO)
+
+**Data:** 28 de setembro a 01 de outubro de 2026.
+
+**Local:** Universidade Federal de Minas Gerais (UFMG), Belo Horizonte, MG, Brasil
