@@ -25,15 +25,19 @@ about:
     image-shape: rectangle
     # image-width: 50em
     links:
-        - icon: images
-          text: Slides - Palestra
+        - icon: megaphone
+          text: Divulgação - Minicurso
+          href: "https://eventos.galoa.com.br/sbpo-2026/page/8493-minicursos"
+          target: _blank
+        - icon: file-slides
+          text: Slides - Minicurso
           href: ""
           target: _blank
         - icon: github
           text: Github Repo
           href: "https://github.com/ramongss/2026-09-28-workshop-sbpo/"
           target: _blank
-        - icon: files
+        - icon: filetype-csv
           text: Dataset
           href: "https://github.com/ramongss/2026-09-28-workshop-sbpo/blob/main/data-dengue.csv"
           target: _blank

@@ -29,11 +29,11 @@ about:
           text: Live - Abertura
           href: "https://www.youtube.com/live/ZVAZP0bwFQQ?si=j8AUb25b4eXP93tC"
           target: _blank
-        - icon: images
+        - icon: file-slides
           text: Slides - Abertura
           href: "static/slides/2026_APRESENTACAO_UNB.pdf"
           target: _blank
-        - icon: images
+        - icon: file-slides
           text: Slides - Palestra
           href: "static/slides/2026_WORKSHOP_UNB.pdf"
           target: _blank
@@ -41,7 +41,7 @@ about:
           text: Github Repo
           href: "https://github.com/ramongss/2026-04-27-palestra-unb"
           target: _blank
-        - icon: files
+        - icon: filetype-csv
           text: Dataset
           href: "https://github.com/ramongss/2026-04-27-palestra-unb/blob/main/data.csv"
           target: _blank
