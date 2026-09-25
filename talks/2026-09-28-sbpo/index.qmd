@@ -1,7 +1,9 @@
 ---
 title: "Previsão de Séries Temporais Epidemiológicas com Estruturas Hierárquicas e Aprendizado de Máquina"
 
-author: "**Ramon Gomes da Silva**"
+author:
+- "**Ramon Gomes da Silva**"
+- Matheus Henrique Dal Molin Ribeiro
 
 date: "2026-09-28"
 
@@ -31,7 +33,7 @@ about:
           target: _blank
         - icon: file-slides
           text: Slides - Minicurso
-          href: ""
+          href: "static/slides/2026_WORKSHOP_SBPO.pdf"
           target: _blank
         - icon: github
           text: Github Repo
