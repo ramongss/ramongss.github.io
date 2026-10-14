@@ -1,0 +1,33 @@
+---
+title: "Revisão Sistemática da Literatura"
+
+author: "**Ramon Gomes da Silva**"
+
+date: "2020-10-29"
+
+event: "Semana Integrada de Ciência e Tecnologia de Gurupi/TO (SICTEG ON)"
+
+local: "Online"
+
+categories:
+    - Português
+    - Revisão Sistemática da Literatura
+
+toc: false
+
+about:
+    id: heading
+    template: jolla
+    image: featured.png
+    image-shape: rectangle
+    # image-width: 50em
+---
+
+::: {#heading}
+:::
+
+**Evento:** Semana Integrada de Ciência e Tecnologia de Gurupi/TO (SICTEG ON)
+
+**Data:** 28 a 30 de Outubro de 2020.
+
+**Local:** Online
